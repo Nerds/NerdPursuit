@@ -1,0 +1,74 @@
+{
+  "type": "object",
+  "title": "card",
+  "description":"A question card",
+  "name":'Card',
+  "properties":{
+    "id": {
+      "description": "uuid of the card",
+      "identity":true,
+      "readonly":true,
+      "type":"string"
+    },
+    "category":{
+      "type":"string",
+      "description":"the questions category",
+      "maxLength": 30,
+      "required":true
+    },
+    "nerd_level":{
+      "type":"number",
+      "description":"Dificulty level of the card. real nerds scrore higher.",
+      "minimum": 0,
+      "maximum": 5,
+      "required":true,
+    },
+    "question":{
+      "type":"string",
+      "description":"the question",
+      "maxLength": 160,
+      "required":true,
+    },
+    "a1":{
+      "type":"string",
+      "description":"an answer",
+      "maxLength": 160,
+      "required":true
+    },
+    "a2":{
+      "type":"string",
+      "description":"an answer",
+      "maxLength": 160,
+      "required":true
+    },
+    "a3":{
+      "type":"string",
+      "description":"an answer",
+      "maxLength": 160,
+      "required":true
+    },
+    "a4":{
+      "type":"string",
+      "description":"an answer",
+      "maxLength": 160,
+      "required":true
+    },
+    "right_answer":{
+      "type":"string",
+      "description":"The right answer",
+      "enum": ["a1","a2","a3","a4"],
+      "required":true
+    },
+    "created_at": {
+      "description": "Date the object was created. Never changes afterwards",
+      "format":"date-time",
+      "readonly":true,
+      "type":"string"
+    }
+    "created_by": {
+      "description": "Name of the person who created the card",
+      "readonly":true,
+      "type":"string"
+    }
+  }
+}
