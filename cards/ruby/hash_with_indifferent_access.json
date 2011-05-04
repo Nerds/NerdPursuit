@@ -1,0 +1,14 @@
+{ "card" : {
+    "id": "",
+    "category": "ruby",
+    "nerd_level": 1,
+    "question":"Which hash can be accessed by string and symbolized keys",
+    "a1": "Any ruby hash",
+    "a2": "Hash with symbolized strings",
+    "a3": "Hash with indifferent access",
+    "a4": "Hash with stringified symbols",
+    "right_answer":"a3",
+    "created_at": "2011-04-03"
+    "created_by": "Schorsch"
+  }
+}
