@@ -37,21 +37,18 @@
     },
     "a2":{
       "type":"string",
-      "description":"an answer",
-      "maxLength": 160,
-      "required":true
+      "description":"Second multiple choice answer",
+      "maxLength": 160
     },
     "a3":{
       "type":"string",
-      "description":"an answer",
-      "maxLength": 160,
-      "required":true
+      "description":"Third multiple choice answer",
+      "maxLength": 160
     },
     "a4":{
       "type":"string",
-      "description":"an answer",
-      "maxLength": 160,
-      "required":true
+      "description":"Forth multiple choice answer",
+      "maxLength": 160
     },
     "right_answer":{
       "type":"string",

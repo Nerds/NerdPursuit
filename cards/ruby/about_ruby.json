@@ -1,8 +1,8 @@
 { "card" : {
     "id": "",
     "category": "ruby",
-    "nerd_level": 4,
-    "question":"Who invited Ruby?",
+    "nerd_level": 1,
+    "question":"Who invented Ruby?",
     "a1": "Yukihiro Matsumoto",
     "a2": "David Heinemeier Hansson",
     "a3": "Rasmus Lerdorf",
