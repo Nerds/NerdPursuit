@@ -1,58 +1,59 @@
 {
   "type": "object",
-  "title": "card",
-  "description":"A question card",
-  "name":'Card',
+  "title": "Question",
+  "description":"A question",
+  "name":'Question',
   "properties":{
     "id": {
-      "description": "uuid of the card",
+      "description": "uuid of the question, reserved if data is used in db.",
       "identity":true,
       "readonly":true,
       "type":"string"
     },
     "category":{
       "type":"string",
-      "description":"the questions category",
+      "description":"The questions main category",
       "maxLength": 30,
       "required":true
     },
     "nerd_level":{
       "type":"number",
-      "description":"Dificulty level of the card. real nerds scrore higher.",
+      "description":"Difficulty level, real nerds score higher.",
       "minimum": 0,
       "maximum": 5,
       "required":true,
     },
-    "question":{
+    "text":{
       "type":"string",
-      "description":"the question",
+      "description":"The question himself",
       "maxLength": 160,
       "required":true,
     },
     "a1":{
       "type":"string",
-      "description":"an answer",
-      "maxLength": 160,
+      "description":"An answer",
+      "maxLength": 50,
       "required":true
     },
     "a2":{
       "type":"string",
       "description":"Second multiple choice answer",
-      "maxLength": 160
+      "maxLength": 50
     },
     "a3":{
       "type":"string",
       "description":"Third multiple choice answer",
-      "maxLength": 160
+      "maxLength": 50
     },
     "a4":{
       "type":"string",
       "description":"Forth multiple choice answer",
-      "maxLength": 160
+      "maxLength": 50
     },
     "right_answer":{
       "type":"string",
-      "description":"The right answer",
+      "description":"The right answer, defaults to first answer if no multiple choice is given",
+      "default": "a1",
       "enum": ["a1","a2","a3","a4"],
       "required":true
     },
@@ -61,9 +62,9 @@
       "format":"date-time",
       "readonly":true,
       "type":"string"
-    }
+    },
     "created_by": {
-      "description": "Name of the person who created the card",
+      "description": "Name of the person who supplied the question",
       "readonly":true,
       "type":"string"
     }
