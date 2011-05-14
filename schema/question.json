@@ -21,13 +21,13 @@
       "description":"Difficulty level, real nerds score higher.",
       "minimum": 0,
       "maximum": 5,
-      "required":true,
+      "required":true
     },
     "text":{
       "type":"string",
       "description":"The question himself",
       "maxLength": 160,
-      "required":true,
+      "required":true
     },
     "a1":{
       "type":"string",
