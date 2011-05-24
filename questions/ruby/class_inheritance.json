@@ -1,0 +1,14 @@
+{ "question" : {
+    "id": "",
+    "category": "ruby",
+    "nerd_level": 1,
+    "text": "From how many classes can a ruby class directly descend/inherit.",
+    "a1": "three",
+    "a2": "none",
+    "a3": "two",
+    "a4": "one",
+    "right_answer": "a4",
+    "created_at": "2011-05-24",
+    "created_by": "Schorsch"
+  }
+}

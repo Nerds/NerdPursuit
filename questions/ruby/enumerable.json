@@ -1,0 +1,14 @@
+{ "question" : {
+    "id": "",
+    "category": "ruby",
+    "nerd_level": 1,
+    "text": "Which module is included in Hash and Array to faciliate traversal and searching.",
+    "a1": "Searchable",
+    "a2": "Enumerable",
+    "a3": "Traversable",
+    "a4": "Mapable",
+    "right_answer": "a2",
+    "created_at": "2011-05-24",
+    "created_by": "Schorsch"
+  }
+}
