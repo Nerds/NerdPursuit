@@ -1,0 +1,14 @@
+{ "question" : {
+    "id": "",
+    "category": "grafix",
+    "nerd_level": 1,
+    "text": "What is the photoshop shortcut to save a web-optimized version of an image (Win/Mac)",
+    "a1": "Ctrl-S",
+    "a2": "Alt-S, Apple-S",
+    "a3": "Alt-Ctrl-Shift-S, Apple-Ctrl-Shift-S",
+    "a4": "Shift-S",
+    "right_answer": "a3",
+    "created_at": "2011-05-24",
+    "created_by": "Schorsch"
+  }
+}
