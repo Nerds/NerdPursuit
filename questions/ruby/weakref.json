@@ -1,0 +1,10 @@
+{ "question" : {
+    "id": "",
+    "category": "ruby",
+    "nerd_level": 4,
+    "text": "Which library lets Ruby garbage collect an object, that is still being referenced",
+    "a1": "Weakref",
+    "created_at": "2011-06-06",
+    "created_by": "juliancheal"
+  }
+}
