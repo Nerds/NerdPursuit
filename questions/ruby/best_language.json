@@ -1,0 +1,14 @@
+{ "question" : {
+    "id": "",
+    "category": "ruby",
+    "nerd_level": 1,
+    "text":"What is the best programing language ever?",
+    "a1": "C#",
+    "a2": "Ruby",
+    "a3": "Java",
+    "a4": "LOLCODE",
+    "right_answer":"a2",
+    "created_at": "2011-06-06",
+    "created_by": "juliancheal"
+  }
+}
