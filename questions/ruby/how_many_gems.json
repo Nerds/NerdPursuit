@@ -2,11 +2,11 @@
     "id": "",
     "category": "ruby"
     "nerd_level": 2,
-    "text":"How many gems can you download at Rubygems.org?",
-    "a1": "500",
-    "a2": "1234",
-    "a3": "1644",
-    "a4": "2500",
+    "text":"How many gems can you download at Rubygems.org on June 2011?",
+    "a1": "ca 500",
+    "a2": "ca 1200",
+    "a3": "ca 1640",
+    "a4": "ca 2500",
     "right_answer":"a3",
     "created_at": "2011-06-07",
     "created_by": "Jost"
