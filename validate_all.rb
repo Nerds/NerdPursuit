@@ -10,6 +10,7 @@ describe 'question' do
     it "#{file.sub(/(\..*$)/,'').sub(/^#{QUESTIONS_PATH}/,'')} contains valid json" do
 
 
+      p JSON.methods
       begin
         question = File.open(file) { |f| JSON.parse(f.read) }['question']
         JSON::Validator.validate!(schema, question, version: :draft3 )
