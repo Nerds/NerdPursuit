@@ -1,6 +1,5 @@
 require 'minitest/autorun'
 require 'json-schema'
-require 'awesome_print'
 
 SCHEMA_FILE = File.join(File.dirname(File.expand_path(__FILE__)) , 'schema', 'question.json')
 QUESTIONS_PATH = File.join(File.dirname(File.expand_path(__FILE__)) , 'questions')
