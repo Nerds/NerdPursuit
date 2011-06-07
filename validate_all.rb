@@ -9,9 +9,9 @@ describe 'question' do
   Dir["#{QUESTIONS_PATH}/**/*\.*"].each do |file|
     it "#{file.sub(/(\..*$)/,'').sub(/^#{QUESTIONS_PATH}/,'')} contains valid json" do
 
-      question = File.open(file) { |f| JSON.parse(f.read) }['question']
 
       begin
+        question = File.open(file) { |f| JSON.parse(f.read) }['question']
         JSON::Validator.validate!(schema, question, version: :draft3 )
       rescue JSON::Schema::ValidationError => schema_error
          assertion =  false, schema_error.message
