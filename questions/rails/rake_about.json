@@ -1,6 +1,6 @@
 { "question" : {
     "id": "",
-    "category": "rails"
+    "category": "rails",
     "nerd_level": 2,
     "text":"What does rake about do?",
     "a1": "List versions of all rails frameworks and the environment",

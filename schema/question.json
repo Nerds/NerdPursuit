@@ -53,13 +53,12 @@
     "right_answer":{
       "type":"string",
       "description":"The right answer, defaults to first answer if no multiple choice is given",
-      "default": "a1",
       "enum": ["a1","a2","a3","a4"],
-      "required":true
+      "default": "a1"
     },
     "created_at": {
       "description": "Date the object was created. Never changes afterwards",
-      "format":"date-time",
+      "format":"date",
       "readonly":true,
       "type":"string"
     },

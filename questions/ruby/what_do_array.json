@@ -1,6 +1,6 @@
 { "question" : {
     "id": "",
-    "category": "ruby"
+    "category": "ruby",
     "nerd_level": 2,
     "text":"What is the result of [1,2,3] * 3?",
     "a1": "[[1,2,3], [1,2,3], [1,2,3]]",
