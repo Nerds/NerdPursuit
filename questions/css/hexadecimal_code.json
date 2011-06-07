@@ -1,6 +1,6 @@
 { "question" : {
     "id": "",
-    "category": "css"
+    "category": "css",
     "nerd_level": 2,
     "text":"What is the hexadecimal code for red?",
     "a1": "ff0000",

@@ -1,6 +1,6 @@
 { "question" : {
     "id": "",
-    "category": "rails"
+    "category": "rails",
     "nerd_level": 1,
     "text":"How many controller actions are created by default?",
     "a1": "6",
