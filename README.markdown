@@ -1,5 +1,5 @@
 
-[![Build Status](http://travis-ci.org/mkorfmann/polynomials.png)](http://travis-ci.org/mkorfmann/polynomials)
+[![Build Status](http://travis-ci.org/mkorfmann/NerdPursuit.png)](http://travis-ci.org/mkorfmann/NerdPursuit)
 
 Everybody loves question & answer games, but none of those let nerdism 
 shine.
