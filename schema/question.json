@@ -2,7 +2,7 @@
   "type": "object",
   "title": "Question",
   "description":"A question",
-  "name":'Question',
+  "name": "Question",
   "properties":{
     "id": {
       "description": "uuid of the question, reserved if data is used in db.",

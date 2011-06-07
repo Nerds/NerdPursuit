@@ -1,0 +1,14 @@
+{ "question" : {
+    "id": "",
+    "category": "ruby",
+    "nerd_level": 1,
+    "text":"Which method can be used instead of 'collect' ",
+    "a1": "scan",
+    "a2": "chomp",
+    "a3": "map",
+    "a4": "select",
+    "right_answer":"a3",
+    "created_at": "2011-06-07",
+    "created_by": "kangguru"
+  }
+}

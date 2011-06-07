@@ -1,7 +1,7 @@
 { "question" : {
     "id": "",
     "category": "regex",
-    "nerd_level": 6,
+    "nerd_level": 5,
     "text": "Which one works as email validator?",
     "a1": "/[\w.!\$%+-].@[\w-]+(?\.[\w-]+)+/",
     "a2": "/[\w.!#\$%+-]+@[\w-]+(?:\.[\w-]+)+/",
