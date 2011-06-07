@@ -2,7 +2,7 @@
     "id": "",
     "category": "ruby"
     "nerd_level": 2,
-    "text":"What does \"hello\".tr_s('l','r') do?",
+    "text":"What is the result of \"hello\".tr_s('l','r')?",
     "a1": "hero",
     "a2": "helrlro",
     "a3": "herro",
