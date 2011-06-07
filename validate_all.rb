@@ -1,5 +1,6 @@
 require 'minitest/autorun'
 require 'json-schema'
+require 'json'
 
 SCHEMA_FILE = File.join(File.dirname(File.expand_path(__FILE__)) , 'schema', 'question.json')
 QUESTIONS_PATH = File.join(File.dirname(File.expand_path(__FILE__)) , 'questions')
@@ -10,7 +11,6 @@ describe 'question' do
     it "#{file.sub(/(\..*$)/,'').sub(/^#{QUESTIONS_PATH}/,'')} contains valid json" do
 
 
-      p JSON.methods
       begin
         question = File.open(file) { |f| JSON.parse(f.read) }['question']
         JSON::Validator.validate!(schema, question, version: :draft3 )
