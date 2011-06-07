@@ -1,0 +1,13 @@
+{ "question" : {
+    "id": "",
+    "category": "bash",
+    "nerd_level": 2,
+    "text":"How to prefix the last command with for example 'sudo'?",
+    "a1": "sudo ^",
+    "a2": "sudo $LAST_COMMAND",
+    "a3": "sudo !!",
+    "right_answer": "a3",
+    "created_at": "2011-06-06",
+    "created_by": "mkorfmann"
+  }
+}

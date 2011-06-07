@@ -1,0 +1,10 @@
+{ "question" : {
+    "id": "",
+    "category": "ruby",
+    "nerd_level": 3,
+    "text":"What's the name of the method, which has the same behaviour as instance_eval but allows passing arguments?",
+    "a1": "instance_exec",
+    "created_at": "2011-06-06",
+    "created_by": "mkorfmann"
+  }
+}
