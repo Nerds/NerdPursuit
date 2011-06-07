@@ -1,0 +1,14 @@
+{ "question" : {
+    "id": "",
+    "category": "ruby",
+    "nerd_level": 1,
+    "text": "What is the return value of nil || 'a'?",
+    "a1": "true",
+    "a2": "nil",
+    "a3": "'a'",
+    "a4": "false",
+    "right_answer": "a3",
+    "created_at": "2011-06-07",
+    "created_by": "Paul"
+  }
+}
