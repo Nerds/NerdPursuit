@@ -1,4 +1,4 @@
-{ { Build Status }[ http://travis-ci.org/mkorfmann/polynomials.png ] }[ http://travis-ci.org/mkorfmann/polynomials ]
+{ http://travis-ci.org/mkorfmann/polynomials.png } [ http://travis-ci.org/mkorfmann/polynomials ]
 
 Everybody loves question & answer games, but none of those let nerdism 
 shine.
