@@ -1,0 +1,14 @@
+{ "question" : {
+    "id": "",
+    "category": "ruby",
+    "nerd_level": 1,
+    "text": "What are the outputs for a == b and a.equal?(b) with a = 'xy' and b = a?",
+    "a1": "true and false",
+    "a2": "true and true",
+    "a3": "false and false",
+    "a4": "false and true",
+    "right_answer": "a2",
+    "created_at": "2011-06-07",
+    "created_by": "Paul"
+  }
+}

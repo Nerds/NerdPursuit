@@ -1,0 +1,14 @@
+{ "question" : {
+    "id": "",
+    "category": "ruby",
+    "nerd_level": 1,
+    "text": "Where is a.id == b.id?",
+    "a1": "a = 'xy'; b = 'xy'",
+    "a2": "a = :xy; b = :xy",
+    "a3": "a = 'xy'; b = :xy",
+    "a4": "a = :xy; b= 'xy'",
+    "right_answer": "a2",
+    "created_at": "2011-06-07",
+    "created_by": "Paul"
+  }
+}

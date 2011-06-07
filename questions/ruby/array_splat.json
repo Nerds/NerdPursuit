@@ -1,0 +1,14 @@
+{ "question" : {
+    "id": "",
+    "category": "ruby",
+    "nerd_level": 1,
+    "text": "What is the correct way to pass [arg1, arg2] as an argument to User.send(:my_method)?",
+    "a1": "User.send(:my_method, a)",
+    "a2": "User.send(:my_method, &a)",
+    "a3": "User.send(:my_method, @a)",
+    "a4": "User.send(:my_method, *a)",
+    "right_answer": "a4",
+    "created_at": "2011-06-07",
+    "created_by": "Paul"
+  }
+}
