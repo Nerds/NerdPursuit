@@ -8,7 +8,7 @@ schema = File.open(SCHEMA_FILE) { |f| JSON.parse(f.read) }
 
 describe 'question' do
   Dir["#{QUESTIONS_PATH}/**/*\.*"].each do |file|
-    it "#{file.sub(/\..*$/,'')} contains valid json" do
+    it "#{file.sub(/(\..*$)/,'').sub(/^#{QUESTIONS_PATH}/,'')} contains valid json" do
 
       question = File.open(file) { |f| JSON.parse(f.read) }['question']
 
