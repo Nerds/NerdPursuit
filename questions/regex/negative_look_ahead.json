@@ -1,0 +1,14 @@
+{ "question" : {
+    "id": "",
+    "category": "regex",
+    "nerd_level": 3,
+    "text": "Which regex will match 'foobaz' and 'fooboz' but not 'foobar'",
+    "a1": "/foo[^bar]/",
+    "a2": "/foo(?!bar)/",
+    "a3": "/foo(?:bar)/",
+    "a4": "/foo(?!=bar)/",
+    "right_answer": "a2",
+    "created_at": "2011-06-07",
+    "created_by": "mkorfmann"
+  }
+}

@@ -1,0 +1,13 @@
+{ "question" : {
+    "id": "",
+    "category": "ruby",
+    "nerd_level": 3,
+    "text":"What is a valid call of a lambda assigned to a variable named foo? (ruby 1.9)",
+    "a1": "foo()",
+    "a2": "foo.()",
+    "a3": "->foo",
+    "right_answer": "a2",
+    "created_at": "2011-06-06",
+    "created_by": "mkorfmann"
+  }
+}
