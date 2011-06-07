@@ -1,7 +1,7 @@
 { "question" : {
     "id": "",
     "category": "regex",
-    "nerd_level": 6,
+    "nerd_level": 3,
     "text": "Which regex will match 'foobaz' and 'fooboz' but not 'foobar'",
     "a1": "/foo[^bar]/",
     "a2": "/foo(?!bar)/",

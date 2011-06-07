@@ -1,7 +1,7 @@
 { "question" : {
     "id": "",
     "category": "bash",
-    "nerd_level": 3,
+    "nerd_level": 2,
     "text":"How to call the last command after substituting some text?",
     "a1": "^old_substring^new_substring^",
     "a2": "/old_substring/new_substring/",
