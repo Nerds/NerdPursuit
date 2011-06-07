@@ -1,7 +1,7 @@
 { "question" : {
     "id": "",
     "category": "regex",
-    "nerd_level": 6,
+    "nerd_level": 3,
     "text": "Which regex will capture everything between the square brackets: '[a,b,c]'",
     "a1": "/[(.*)]/",
     "a2": "/[(.+)]/",

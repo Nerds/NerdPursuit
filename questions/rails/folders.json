@@ -1,6 +1,6 @@
 { "question" : {
     "id": "",
-    "category": "rails"
+    "category": "rails",
     "nerd_level": 2,
     "text":"How many folders are created in a new Ruby on Rails 3.0 app?",
     "a1": "10",
