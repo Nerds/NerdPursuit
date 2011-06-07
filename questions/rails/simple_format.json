@@ -1,0 +1,14 @@
+{ "question" : {
+    "id": "",
+    "category": "rails",
+    "nerd_level": 2,
+    "text": "Which one produces invalid HTML?",
+    "a1": "<p><%= auto_link(text) %></p>",
+    "a2": "<p><%= simple_format(text) %></p>",
+    "a3": "<p><%= highlight(text, word) %></p>",
+    "a4": "<p><%= truncate(text) %></p>",
+    "right_answer": "a2",
+    "created_at": "2011-06-07",
+    "created_by": "tmschndr"
+  }
+}

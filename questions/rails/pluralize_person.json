@@ -1,0 +1,14 @@
+{ "question" : {
+    "id": "",
+    "category": "rails",
+    "nerd_level": 3,
+    "text": "What's the output of pluralize(2, 'person') ?",
+    "a1": "personperson",
+    "a2": "2 persons",
+    "a3": "2 people",
+    "a4": "2 users",
+    "right_answer": "a3",
+    "created_at": "2011-06-07",
+    "created_by": "tmschndr"
+  }
+}

@@ -1,0 +1,14 @@
+{ "question" : {
+    "id": "",
+    "category": "regex",
+    "nerd_level": 6,
+    "text": "Which one works as email validator?",
+    "a1": "/[\w.!\$%+-].@[\w-]+(?\.[\w-]+)+/",
+    "a2": "/[\w.!#\$%+-]+@[\w-]+(?:\.[\w-]+)+/",
+    "a3": "/[\w.+!#\$%+]+@[\w-]+(?\.[\w-]+)+/",
+    "a4": "/[\w.!\$%+-]+@[\w-].(?:\.[\w-]+)-/",
+    "right_answer": "a2",
+    "created_at": "2011-06-07",
+    "created_by": "tmschndr"
+  }
+}
