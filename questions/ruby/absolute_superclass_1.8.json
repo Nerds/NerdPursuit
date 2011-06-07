@@ -1,0 +1,14 @@
+{ "question" : {
+    "id": "",
+    "category": "ruby",
+    "nerd_level": 1,
+    "text": "What is the absolute superclass, the mother of all classes, in Ruby 1.8?",
+    "a1": "MotherClass",
+    "a2": "Object",
+    "a3": "Lilith",
+    "a4": "Base-Object",
+    "right_answer": "a2",
+    "created_at": "2011-06-07",
+    "created_by": "Paul"
+  }
+}
