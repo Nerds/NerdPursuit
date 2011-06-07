@@ -1,0 +1,14 @@
+{ "question" : {
+    "id": "",
+    "category": "ruby",
+    "nerd_level": 2,
+    "text":"What character is used to denote a Global Variable?",
+    "a1": "VAR",
+    "a2": "$var",
+    "a3": "@@var",
+    "a4": "@var",
+    "right_answer":"a2",
+    "created_at": "2011-06-06",
+    "created_by": "juliancheal"
+  }
+}

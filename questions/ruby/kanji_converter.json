@@ -1,0 +1,10 @@
+{ "question" : {
+    "id": "",
+    "category": "ruby",
+    "nerd_level": 5,
+    "text": "Which Ruby module can be used to convert Kanji into UTF-8",
+    "a1": "NKF",
+    "created_at": "2011-06-06",
+    "created_by": "juliancheal"
+  }
+}

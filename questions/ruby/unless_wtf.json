@@ -1,0 +1,14 @@
+{ "question" : {
+    "id": "",
+    "category": "ruby",
+    "nerd_level": 1,
+    "text":"(1..4).reverse_each {|i| puts i unless i.equal?(i**i) } # Which of the following will not be printed?",
+    "a1": "1",
+    "a2": "2",
+    "a3": "3",
+    "a4": "4",
+    "right_answer":"a1",
+    "created_at": "2011-06-06",
+    "created_by": "juliancheal"
+  }
+}
