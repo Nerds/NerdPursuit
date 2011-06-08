@@ -1,0 +1,14 @@
+{ "question" : {
+    "id": "",
+    "category": "ruby",
+    "nerd_level": 3,
+    "text": "What's the output of '%-020s' % 'dude is here'?",
+    "a1": "dude is here",
+    "a2": "dude is here        ",
+    "a3": "        dude is here",
+    "a4": "dude is",
+    "right_answer": "a2",
+    "created_at": "2011-06-08",
+    "created_by": "koos"
+  }
+}
