@@ -1,0 +1,14 @@
+{ "question" : {
+    "id": "",
+    "category": "flash",
+    "nerd_level": 1,
+    "text":"Which action script 3 command will print 'hello world' in the flash console?",
+    "a1": "print('hello world')",
+    "a2": "puts => 'hello world'",
+    "a3": "'hello world'.print",
+    "a4": "trace('hello world')",
+    "right_answer":"a4",
+    "created_at": "2011-06-08",
+    "created_by": "StephanP"
+  }
+}
