@@ -1,0 +1,14 @@
+{ "question" : {
+    "id": "",
+    "category": "culture",
+    "nerd_level": 1,
+    "text":"Who invented Ruby on Rails?",
+    "a1": "The Hanson Brothers",
+    "a2": "David Heinemeier Hansson",
+    "a3": "Han Solo",
+    "a4": "Hans Wurst",
+    "right_answer":"a2",
+    "created_at": "2011-06-07",
+    "created_by": "jhilden"
+  }
+}
