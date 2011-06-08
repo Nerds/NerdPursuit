@@ -1,0 +1,14 @@
+{ "question" : {
+    "id": "",
+    "category": "nerdism",
+    "nerd_level": 2,
+    "text":"Which totally true prediction comes from Bill Gates in 2004",
+    "a1": "Computers in the future may weigh no more than 1.5 tons",
+    "a2": "Computer viruses are an urban legend",
+    "a3": "Two years from now, spam will be solved",
+    "a4": "In 2031, lawyers will be commonly a part of most development teams",
+    "right_answer":"a3",
+    "created_at": "2011-06-08",
+    "created_by": "StephanP"
+  }
+}
