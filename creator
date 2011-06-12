@@ -1,0 +1,65 @@
+#!/usr/bin/env ruby
+require 'json'
+
+category = ARGV.shift
+
+# Helper method, idea stolen from higline
+def ask(prompt)
+  print prompt
+  gets.chomp
+end
+
+# Helper method for exiting the program with a status code of 1 and a message
+def die(message)
+  puts message
+  exit 1
+end
+
+die("No category given! Run creator with ./creator [category]") if !category or category.empty?
+
+die("No such category. Create a '#{category}' folder in questions to add it.") if !File.exists?("questions/#{category}")
+
+question       = ask("New question for #{category}: ")
+correct_answer = ask("Correct answer: ")
+
+# Get all wrong answers
+iterator = 0
+answers = [correct_answer]
+begin
+  iterator += 1
+  wrong_answer = ask("Wrong answer ##{iterator} (leave empty to continue): ")
+  answers.push wrong_answer if wrong_answer != ''
+end while wrong_answer != ''
+
+level    = ask("Nerd level (0-10): ").to_i
+
+# Extract the creator from
+creator = `git config --get user.name`.chomp
+
+# Shuffle the answers and find the index of the correct one
+answers.shuffle!
+correct_index = answers.index(correct_answer)
+
+# Construct the hash that will be converted to JSON
+data = {
+  :id => '',
+  :category => category,
+  :nerd_level => level,
+  :text => question,
+  :created_by => creator,
+  :created_at => Time.now.strftime('%Y-%m-%d'),
+  :right_answer => "a#{correct_index + 1}"
+}
+
+# Add the answers to the result hash
+answers.each_with_index do |answer, index|
+  data["a#{index+1}"] = answer
+end
+
+json = JSON.pretty_generate({ :question => data })
+
+filename = question.downcase[0..30].gsub(/[^a-z0-9]+/i, '_').sub(/_+$/, '') + '.json'
+File.open("questions/#{category}/#{filename}", "w") do |file|
+  file.write(json)
+end
+
