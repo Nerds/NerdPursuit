@@ -1,12 +1,13 @@
-{ "question" : {
+{
+  "question": {
     "id": "",
     "category": "css",
     "nerd_level": 3,
     "text": "Why it's better to use <img.. /> tag instead of background whenever it's possible?",
-    "a1": "It's more easier to manage images in development mode.",
-    "a2": "Actually it's not. It's better to use background images.",
+    "a1": "Easier to manage images in dev mode.",
+    "a2": "Actually it's not. Better to use bg images.",
     "a3": "Background images are not printable.",
-    "a4": "Image displayed by <img> tag can be easily used as inline element.",
+    "a4": "<img> tag's are easier to style as a inline elements.",
     "right_answer":"a3",
     "created_at": "2011-06-08",
     "created_by": "Barto"

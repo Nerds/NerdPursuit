@@ -1,4 +1,5 @@
-{ "question" : {
+{
+  "question": {
     "id": "",
     "category": "css",
     "nerd_level": 2,
