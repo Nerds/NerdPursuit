@@ -31,9 +31,13 @@ begin
   answers.push wrong_answer if wrong_answer != ''
 end while wrong_answer != ''
 
-level    = ask("Nerd level (0-10): ").to_i
+level = ask("Nerd level (1-5): ").to_i
 
-# Extract the creator from
+# Handle edge cases
+level = 5 if level > 5
+level = 1 if level < 1
+
+# Extract the creator from git
 creator = `git config --get user.name`.chomp
 
 # Shuffle the answers and find the index of the correct one
