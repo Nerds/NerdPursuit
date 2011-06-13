@@ -5,8 +5,8 @@
     "text": "What is Kernel?",
     "a1": "The thing holding your OS together, sometimes a bit panicky.",
     "a2": "The parent class of Base-Object, as of Ruby 1.9.",
-    "a3": "A module mixed into Object. The hierarchy is Base-Object > Kernel > Object, in order of inheritance.",
-    "a4": "A module mixed into Object. The hierarchy is Base-Object > Object > Kernel, in order of inheritance.",
+    "a3": "A module mixed into Object.",
+    "a4": "A module mixed into BasicObject.",
     "right_answer": "a3",
     "created_at": "2011-06-07",
     "created_by": "Paul"
