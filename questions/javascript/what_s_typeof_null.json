@@ -1,0 +1,12 @@
+{
+  "question": {
+    "text": "What's typeof null?",
+    "created_by": "Jörn Zaefferer",
+    "a1": "'object'",
+    "created_at": "2011-06-13",
+    "category": "javascript",
+    "right_answer": "a1",
+    "id": "",
+    "nerd_level": 1
+  }
+}
