@@ -32,23 +32,23 @@
     "a1":{
       "type":"string",
       "description":"An answer",
-      "maxLength": 50,
+      "maxLength": 80,
       "required":true
     },
     "a2":{
       "type":"string",
       "description":"Second multiple choice answer",
-      "maxLength": 50
+      "maxLength": 80
     },
     "a3":{
       "type":"string",
       "description":"Third multiple choice answer",
-      "maxLength": 50
+      "maxLength": 80
     },
     "a4":{
       "type":"string",
       "description":"Forth multiple choice answer",
-      "maxLength": 50
+      "maxLength": 80
     },
     "right_answer":{
       "type":"string",
