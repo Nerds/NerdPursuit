@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
+require 'rubygems'
 require 'json'
 
 category = ARGV.shift
@@ -65,5 +66,5 @@ json = JSON.pretty_generate({ :question => data })
 filename = question.downcase[0..30].gsub(/[^a-z0-9]+/i, '_').sub(/_+$/, '') + '.json'
 File.open("questions/#{category}/#{filename}", "w") do |file|
   file.write(json)
-end
+end unless filename == '.json'
 
