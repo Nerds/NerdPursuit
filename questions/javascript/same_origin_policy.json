@@ -2,7 +2,7 @@
     "id": "",
     "category": "javascript",
     "nerd_level": 4,
-    "text":"Why can't you just request files from external servers via XMLHttpRequest?",
+    "text":"Why can't you just request files from external servers via XMLHttpRequest in a web-browser?",
     "a1": "XSS",
     "a2": "Cross-Site Scripting",
     "a3": "Cross-Domain Scripting",

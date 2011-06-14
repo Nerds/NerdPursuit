@@ -2,7 +2,7 @@
     "id": "",
     "category": "javascript",
     "nerd_level": 4,
-    "text":"What does \"jsonp=?\" do?",
+    "text":"What does \"jsonp=?\" or similar statements do?",
     "a1": "Treat the incoming JSON data as JSONP",
     "a2": "Tell the server to return JSONP data",
     "a3": "Tell the server to return JSONP data and wrap it in a dynamic callback",
