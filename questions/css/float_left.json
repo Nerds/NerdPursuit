@@ -1,0 +1,14 @@
+{ "question" : {
+    "id": "",
+    "category": "css",
+    "nerd_level": 4,
+    "text":"How to remove the gaps between <li> elements that have been set to display: inline-block?",
+    "a1": "width: 100%",
+    "a2": "float: left",
+    "a3": "float: right",
+    "a4": "display: inline",
+    "right_answer":"a2",
+    "created_at": "2011-06-07",
+    "created_by": "Philipp"
+  }
+}
