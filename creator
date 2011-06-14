@@ -31,7 +31,7 @@ begin
   iterator += 1
   wrong_answer = ask("Wrong answer ##{iterator} (leave empty to continue): ")
   answers.push wrong_answer if wrong_answer != ''
-end while wrong_answer != ''
+end while wrong_answer != '' and iterator < 3
 
 level = ask("Nerd level (1-5): ").to_i
 
