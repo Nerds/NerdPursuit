@@ -1,0 +1,15 @@
+{
+  "question": {
+    "category": "ruby",
+    "right_answer": "a1",
+    "nerd_level": 3,
+    "text": "Mixins are an example of what design pattern?",
+    "a1": "inheritance",
+    "a2": "template method",
+    "a3": "composition",
+    "a4": "singleton",
+    "created_by": "nbartlomiej",
+    "id": "",
+    "created_at": "2011-06-14"
+  }
+}
