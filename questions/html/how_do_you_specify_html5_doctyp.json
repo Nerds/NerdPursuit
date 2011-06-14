@@ -9,6 +9,7 @@
     "right_answer": "a1",
     "a1": "<!DOCTYPE HTML>",
     "a2": "<!DOCTYPE HTML5>",
-    "a3": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 5//EN\" \"http://www.w3.org/TR/html5/DTD/html5.dtd\">"
+    "a3": "<!DOCTYPE HTML PUBLIC -//W3C//DTD HTML 5//EN\>",
+    "a4": "<!DOCTYPE NEW HTML 5>"
   }
 }
