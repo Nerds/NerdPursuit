@@ -3,7 +3,7 @@
     "category": "ruby",
     "right_answer": "a3",
     "nerd_level": 4,
-    "text": "Backticks in ruby",
+    "text": "Backticks ` in ruby",
     "a1": "are a shortcut to send method",
     "a2": "do nothing",
     "a3": "allow to execute a system command",

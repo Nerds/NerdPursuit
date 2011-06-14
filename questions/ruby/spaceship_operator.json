@@ -3,7 +3,7 @@
     "category": "ruby",
     "right_answer": "a2",
     "nerd_level": 4,
-    "text": "What is spaceship operator?",
+    "text": "What is the spaceship operator?",
     "a1": "=||=",
     "a2": "<=>",
     "a3": "[] (two square brackets)",
