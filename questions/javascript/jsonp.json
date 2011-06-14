@@ -1,0 +1,14 @@
+{ "question" : {
+    "id": "",
+    "category": "javascript",
+    "nerd_level": 4,
+    "text":"What does \"jsonp=?\" or similar statements do?",
+    "a1": "Treat the incoming JSON data as JSONP",
+    "a2": "Tell the server to return JSONP data",
+    "a3": "Tell the server to return JSONP data and wrap it in a dynamic callback",
+    "a4": "Tell the server to return JSONP data and wrap it in a '?' callback",
+    "right_answer":"a2",
+    "created_at": "2011-06-07",
+    "created_by": "Philipp"
+  }
+}

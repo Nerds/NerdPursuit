@@ -1,0 +1,14 @@
+{ "question" : {
+    "id": "",
+    "category": "http",
+    "nerd_level": 5,
+    "text":"What does the HTCPCP response 418 stand for?",
+    "a1": "Not acceptable",
+    "a2": "I'm a teapot",
+    "a3": "HTCPCP? Nice try.",
+    "a4": "Permanently moved.",
+    "right_answer":"a2",
+    "created_at": "2011-06-07",
+    "created_by": "Philipp"
+  }
+}
