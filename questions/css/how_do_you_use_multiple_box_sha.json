@@ -1,0 +1,15 @@
+{
+  "question": {
+    "id": "",
+    "category": "css",
+    "nerd_level": 1,
+    "text": "How do you use multiple box-shadows?",
+    "created_by": "Philipp Brumm",
+    "created_at": "2011-06-14",
+    "right_answer": "a3",
+    "a1": "Specify multiple box-shadow declarations with a space",
+    "a2": "Seperate multiple shadow values with a space",
+    "a3": "Seperate multiple shadow values with a comma",
+    "a4": "Specify multiple box-shadow declarations"
+  }
+}

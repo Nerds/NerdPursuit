@@ -1,0 +1,14 @@
+{ "question" : {
+    "id": "",
+    "category": "css",
+    "nerd_level": 4,
+    "text":"How would you style all links to PDF files via CSS?",
+    "a1": "[href*=.pdf]",
+    "a2": "[href?=.pdf]",
+    "a3": "[href$=.pdf]",
+    "a4": "[href^=.pdf]",
+    "right_answer":"a3",
+    "created_at": "2011-06-07",
+    "created_by": "Philipp"
+  }
+}
