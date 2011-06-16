@@ -1,0 +1,15 @@
+{
+  "question": {
+    "nerd_level": 2,
+    "text": "Who is the first character to be chased by Mad Max in the first movie?",
+    "a1": "Johnny",
+    "a2": "Nightcrawler",
+    "a3": "Toecutter",
+    "a4": "Nightrider",
+    "created_by": "Mike Poltyn",
+    "created_at": "2011-06-14",
+    "category": "culture",
+    "right_answer": "a4",
+    "id": ""
+  }
+}
