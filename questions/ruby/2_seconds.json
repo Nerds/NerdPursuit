@@ -1,0 +1,15 @@
+{
+  "question": {
+    "nerd_level": 1,
+    "text": "In Rails, what is the class of an object created with this statement: 2.seconds",
+    "a1": "Duration",
+    "created_by": "Mike Poltyn",
+    "a2": "DateTime",
+    "a3": "Fixnum",
+    "created_at": "2011-06-15",
+    "a4": "Time",
+    "category": "ruby",
+    "right_answer": "a3",
+    "id": ""
+  }
+}
