@@ -1,0 +1,14 @@
+{ "question" : {
+    "id": "",
+    "category": "javascript",
+    "nerd_level": 3,
+    "text": "Whats the value of (function() { return typeof arguments; })()?",
+    "a1": "array",
+    "a2": "object",
+    "a3": "undefined",
+    "a4": "arguments",
+    "right_answer": "a2",
+    "created_at": "2011-06-19",
+    "created_by": "Christoph Werner @gonsfx"
+  }
+}

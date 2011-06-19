@@ -1,0 +1,14 @@
+{ "question" : {
+    "id": "",
+    "category": "javascript",
+    "nerd_level": 4,
+    "text": "Which of these methods is an object run through first on type coercion with a string?",
+    "a1": "toString",
+    "a2": "toObject",
+    "a3": "toPrimitive",
+    "a4": "valueOf",
+    "right_answer": "a3",
+    "created_at": "2011-06-19",
+    "created_by": "Christoph Werner @gonsfx"
+  }
+}
