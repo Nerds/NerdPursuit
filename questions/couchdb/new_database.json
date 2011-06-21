@@ -1,0 +1,10 @@
+{ "question" : {
+    "id": "",
+    "category": "couchdb",
+    "nerd_level": 2,
+    "text":"How to create a couchdb collection called 'nerds' with curl",
+    "a1": "curl -X PUT http://localhost:5984/nerds",
+    "created_at": "2011-06-21",
+    "created_by": "kangguru"
+  }
+}
