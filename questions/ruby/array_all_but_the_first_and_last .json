@@ -1,0 +1,15 @@
+{
+  "question": {
+    "nerd_level": 3,
+    "text": "How to get all but the first and last elements of an array.",
+    "a1": "ary[1..-1]",
+    "a2": "ary.pop",
+    "a3": "ary[1...-1]",
+    "a4": "ary.size-2",
+    "category": "ruby",
+    "right_answer": "a1",
+    "created_by": "Georg Leciejewski",
+    "created_at": "2011-06-23",
+    "id": ""
+  }
+}
