@@ -1,7 +1,7 @@
 { "question" : {
     "id": "",
     "category": "javascript",
-    "nerd_level": 4,
+    "nerd_level": 3,
     "text": "What's the nodeType value of text nodes?",
     "a1": "1",
     "a2": "2",
