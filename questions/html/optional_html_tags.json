@@ -1,7 +1,7 @@
 { "question" : {
     "id": "",
     "category": "html",
-    "nerd_level": 5,
+    "nerd_level": 2,
     "text":"Which one of these tags is not specified as optional according to the HTML 4.01 Strict DTD?",
     "a1": "<html>",
     "a2": "</head>",
