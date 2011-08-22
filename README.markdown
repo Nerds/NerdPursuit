@@ -1,5 +1,5 @@
 
-[![Build Status](http://travis-ci.org/mkorfmann/NerdPursuit.png)](http://travis-ci.org/mkorfmann/NerdPursuit)
+[![Build Status](http://travis-ci.org/Nerds/NerdPursuit.png)](http://travis-ci.org/Nerds/NerdPursuit)
 
 Everybody loves question & answer games, but none of those let nerdism 
 shine.
