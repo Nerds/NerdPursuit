@@ -1,0 +1,15 @@
+{
+  "question": {
+    "nerd_level": 1,
+    "text": "How to convert an array into a comma seperated string.",
+    "a1": "[1,2,3].csv_merge",    
+    "a2": "[1,2,3].collapse(',')",
+    "a3": "[1,2,3].join(',')",
+    "a4": "[1,2,3].glue.with(',')",
+    "category": "ruby",
+    "right_answer": "a3",
+    "created_by": "Georg Leciejewski",
+    "created_at": "2011-06-20",
+    "id": ""
+  }
+}

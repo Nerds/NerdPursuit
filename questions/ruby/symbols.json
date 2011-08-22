@@ -3,10 +3,10 @@
     "category": "ruby",
     "nerd_level": 1,
     "text": "What are Ruby symbols?",
-    "a1": "Useful shorthands for use in hashes.",
-    "a2": "'Immutable strings' which are optimized to stand for something and can be compared a lot faster than their string counterparts.",
+    "a1": "Hash Keys.",
+    "a2": "Immutable strings.",
     "a3": "Ruby pointers.",
-    "a4": "Ruby's interpretation of the eyes peering out from the tilted head of a confused but friendly dog.",
+    "a4": "Ruby's Array index.",
     "right_answer": "a2",
     "created_at": "2011-06-07",
     "created_by": "Paul"

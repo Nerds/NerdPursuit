@@ -2,12 +2,12 @@
     "id": "",
     "category": "culture",
     "nerd_level": 2,
-    "text":"How much caffeine does Club Mate contain?",
-    "a1": "15 mg /100ml",
-    "a2": "20 mg /100ml",
-    "a3": "25 mg /100ml",
-    "a4": "30 mg /100ml",
-    "right_answer":"a3",
+    "text":"How much caffeine does Club Mate contain (per 100ml)?",
+    "a1": "15 mg",
+    "a2": "20 mg",
+    "a3": "25 mg",
+    "a4": "30 mg",
+    "right_answer":"a2",
     "created_at": "2011-06-07",
     "created_by": "jhilden"
   }

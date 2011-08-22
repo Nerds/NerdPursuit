@@ -1,0 +1,15 @@
+{
+  "question": {
+    "nerd_level": 1,
+    "text": "Which character in Star Trek series always dies first?",
+    "a1": "Blue Suit",
+    "created_by": "Mike Poltyn",
+    "a2": "Red Suit",
+    "created_at": "2011-06-14",
+    "a3": "Cpt. Picard",
+    "category": "culture",
+    "a4": "Yellow Suit",
+    "right_answer": "a2",
+    "id": ""
+  }
+}

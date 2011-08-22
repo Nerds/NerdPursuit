@@ -1,0 +1,14 @@
+{ "question" : {
+    "id": "",
+    "category": "bash",
+    "nerd_level": 3,
+    "text": "How to switch back to the previous directory?",
+    "a1": "cd ...",
+    "a2": "cd -P",
+    "a3": "cd -last",
+    "a4": "cd -",
+    "right_answer": "a4",
+    "created_at": "2011-06-25",
+    "created_by": "swilke"
+  }
+}

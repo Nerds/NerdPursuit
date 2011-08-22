@@ -1,0 +1,15 @@
+{
+  "question": {
+    "nerd_level": 2,
+    "text": "What is a traditional Vulcan salute?",
+    "a1": "Live long and prosper",
+    "created_by": "Mike Poltyn",
+    "a2": "Live fast and die young",
+    "a3": "Live free and die hard",
+    "created_at": "2011-06-15",
+    "a4": "Live long and healthy",
+    "category": "culture",
+    "right_answer": "a1",
+    "id": ""
+  }
+}

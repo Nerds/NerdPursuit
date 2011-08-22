@@ -1,0 +1,14 @@
+{ "question" : {
+    "id": "",
+    "category": "css",
+    "nerd_level": 3,
+    "text":"What would you use to write device- or screen-size specific css?",
+    "a1": "Javascript",
+    "a2": "black magic",
+    "a3": "@media queries",
+    "a4": "Application Scaling",
+    "right_answer":"a3",
+    "created_at": "2011-06-07",
+    "created_by": "Philipp"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "question": {
+    "nerd_level": 2,
+    "text": "How to remove leading and trailing whitespace from a string.",
+    "a1": "str.clean",
+    "a2": "str.spit",
+    "a3": "str.split",
+    "a4": "str.strip",
+    "category": "ruby",
+    "right_answer": "a4",
+    "created_by": "Georg Leciejewski",
+    "created_at": "2011-06-27",
+    "id": ""
+  }
+}

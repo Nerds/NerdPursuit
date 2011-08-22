@@ -1,0 +1,15 @@
+{
+ "question" : {
+    "id": "",
+    "category": "ruby",
+    "nerd_level": 1,
+    "text":"Which one will sum up an array of numbers?",
+    "a1": "[1,2,3].sum",
+    "a2": "[1,2,3].flatten!.inject(&:+)",
+    "a3": "[1,2,3].reduce{|remainder,n| remainder + n}",
+    "a4": "[1,2,3].sum(&:add)",
+    "right_answer":"a3",
+    "created_at": "2011-06-09",
+    "created_by": "kangguru"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "question": {
+    "nerd_level": 5,
+    "text": "How can you access the data passed in with window.history.pushState(data, \"Title\", \"/new-url\") via window.onpopstate event?",
+    "created_by": "Mike Połtyn",
+    "a1": "function () { this }",
+    "a2": "function () { this.state }",
+    "a3": "function (data) { data.state }",
+    "a4": "function (data) { data }",
+    "created_at": "2011-06-14",
+    "category": "javascript",
+    "right_answer": "a3",
+    "id": ""
+  }
+}

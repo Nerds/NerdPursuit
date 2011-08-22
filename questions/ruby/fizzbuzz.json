@@ -1,0 +1,15 @@
+{
+  "question": {
+    "nerd_level": 4,
+    "text": "Which code gives proper FizzBuzz solution?",
+    "a1": "(1..100).map {|i| ['fizzbuzz', nil, nil, 'fizz', nil, 'buzz'][i % 6] || i }",
+    "a2": "(1..100).map {|i| (i%5).zero? ? \"Fizz\" : (i%3).zero? ? \"Buzz\" : i }",
+    "a3": "(1..100).map {|i| ['fizzbuzz', 'fizz', 'buzz', i][[i%15,i%3,i%5,0].index(0)] }",
+    "a4": "All of the above",
+    "created_by": "Mike Poltyn",
+    "created_at": "2011-06-15",
+    "category": "ruby",
+    "right_answer": "a3",
+    "id": ""
+  }
+}
