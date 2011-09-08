@@ -1,0 +1,15 @@
+{
+  "question": {
+    "id": "",
+    "nerd_level": 3,
+    "text": "Which garbage collecting technique is used by Ruby1.9/YARV?",
+    "a1": "Reference counting",
+    "a2": "Generational GC",
+    "a3": "Mark and sweep",
+    "a4": "Memory is managed by a programmer",
+    "right_answer": "a3",
+    "category": "ruby",
+    "created_by": "Michał Łomnicki",
+    "created_at": "2011-09-08"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "question": {
+    "id": "",
+    "nerd_level": 2,
+    "category": "ruby",
+    "text": "Which method is used for comparisions in case ... when statement?",
+    "a1": "==",
+    "a2": "===",
+    "a3": "equal?",
+    "a4": "=~",
+    "right_answer": "a2",
+    "created_at": "2011-09-08",
+    "created_by": "Michał Łomnicki"
+  }
+}
