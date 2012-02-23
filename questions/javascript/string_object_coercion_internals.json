@@ -1,5 +1,4 @@
 { "question" : {
-    "id": "",
     "category": "javascript",
     "nerd_level": 4,
     "text": "Which of these methods is an object run through first on type coercion with a string?",

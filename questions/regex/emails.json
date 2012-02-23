@@ -1,5 +1,4 @@
 { "question" : {
-    "id": "",
     "category": "regex",
     "nerd_level": 5,
     "text": "Which one works as email validator?",

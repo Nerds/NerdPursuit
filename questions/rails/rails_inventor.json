@@ -1,5 +1,4 @@
 { "question" : {
-    "id": "",
     "category": "culture",
     "nerd_level": 1,
     "text":"Who invented Ruby on Rails?",

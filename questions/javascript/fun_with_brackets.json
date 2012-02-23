@@ -1,5 +1,4 @@
 { "question" : {
-    "id": "",
     "category": "javascript",
     "nerd_level": 5,
     "text": "Which of this expressions has value 11?",

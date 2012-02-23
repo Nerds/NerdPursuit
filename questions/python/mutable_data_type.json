@@ -1,5 +1,4 @@
 { "question" : {
-    "id": "",
     "category": "python",
     "nerd_level": 2,
     "text": "Which of the following data types are mutable?",

@@ -1,6 +1,5 @@
 {
   "question": {
-    "id": "",
     "nerd_level": 1,
     "text": "What does !~ operator do?",
     "a1": "Performs bitwise XOR on its arguments",

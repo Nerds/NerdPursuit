@@ -1,5 +1,4 @@
 { "question" : {
-    "id": "",
     "category": "rails",
     "nerd_level": 1,
     "text":"How many controller actions are created when scaffolding a model e.g. rails generate scaffold User name:string ?",

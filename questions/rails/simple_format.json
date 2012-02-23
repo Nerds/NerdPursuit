@@ -1,5 +1,4 @@
 { "question" : {
-    "id": "",
     "category": "rails",
     "nerd_level": 2,
     "text": "Which one produces invalid HTML?",

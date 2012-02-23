@@ -1,6 +1,5 @@
 {
   "question": {
-    "id": "",
     "nerd_level": 2,
     "category": "ruby",
     "text": "A protected method in ruby ...",

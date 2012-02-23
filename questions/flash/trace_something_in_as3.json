@@ -1,5 +1,4 @@
 { "question" : {
-    "id": "",
     "category": "flash",
     "nerd_level": 1,
     "text":"Which action script 3 command will print 'hello world' in the flash console?",

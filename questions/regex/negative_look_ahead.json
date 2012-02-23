@@ -1,5 +1,4 @@
 { "question" : {
-    "id": "",
     "category": "regex",
     "nerd_level": 3,
     "text": "Which regex will match 'foobaz' and 'fooboz' but not 'foobar'",
