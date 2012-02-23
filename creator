@@ -48,7 +48,6 @@ correct_index = answers.index(correct_answer)
 
 # Construct the hash that will be converted to JSON
 data = {
-  :id => '',
   :category => category,
   :nerd_level => level,
   :text => question,
