@@ -1,6 +1,5 @@
 {
   "question": {
-    "id": "",
     "nerd_level": 3,
     "text": "What is the difference between && and \"and\" operators?",
     "a1": "They are exactly the same",

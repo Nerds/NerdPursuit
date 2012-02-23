@@ -1,6 +1,5 @@
 {
  "question" : {
-    "id": "",
     "category": "ruby",
     "nerd_level": 1,
     "text":"Which one will sum up an array of numbers?",

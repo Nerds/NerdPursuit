@@ -1,5 +1,4 @@
 { "question" : {
-    "id": "",
     "category": "algorithms",
     "nerd_level": 3,
     "text":"Which one is the fastest sorting algorithm?",

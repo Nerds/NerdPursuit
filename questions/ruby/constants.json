@@ -1,5 +1,4 @@
 { "question" : {
-    "id": "",
     "category": "ruby",
     "nerd_level": 2,
     "text":"Which of the following will call the constant Bar from class Foo ?",

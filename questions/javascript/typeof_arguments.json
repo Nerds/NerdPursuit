@@ -1,5 +1,4 @@
 { "question" : {
-    "id": "",
     "category": "javascript",
     "nerd_level": 3,
     "text": "Whats the value of (function() { return typeof arguments; })()?",

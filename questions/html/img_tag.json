@@ -1,5 +1,4 @@
 { "question" : {
-    "id": "",
     "category": "html",
     "nerd_level": 1,
     "text":"Which attribute can not be forgotten for the <img ../> tag?",

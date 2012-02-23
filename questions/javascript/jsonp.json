@@ -1,5 +1,4 @@
 { "question" : {
-    "id": "",
     "category": "javascript",
     "nerd_level": 4,
     "text":"What does \"jsonp=?\" or similar statements do?",

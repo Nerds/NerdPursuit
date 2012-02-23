@@ -1,5 +1,4 @@
 { "question" : {
-    "id": "",
     "category": "css",
     "nerd_level": 4,
     "text":"How to remove the gaps between <li> elements that have been set to display: inline-block?",

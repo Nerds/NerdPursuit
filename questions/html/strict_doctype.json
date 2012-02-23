@@ -1,5 +1,4 @@
 { "question" : {
-    "id": "",
     "category": "html",
     "nerd_level": 2,
     "text":"Attribute that is not allowed in Strict DOCTYPE",

@@ -1,5 +1,4 @@
 { "question" : {
-    "id": "",
     "category": "ruby",
     "nerd_level": 1,
     "text": "What's the output of [1, 2, 3] & [3, 4, 5]?",

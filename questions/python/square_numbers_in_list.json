@@ -1,5 +1,4 @@
 { "question" : {
-    "id": "",
     "category": "python",
     "nerd_level": 2,
     "text": "Which one of these statements squares all the numbers in the list l?",

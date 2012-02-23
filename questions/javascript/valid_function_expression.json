@@ -1,5 +1,4 @@
 { "question" : {
-    "id": "",
     "category": "javascript",
     "nerd_level": 4,
     "text": "Which of these Immediately-Invoked Function Expressions won't give you a NERD-ALERT?",

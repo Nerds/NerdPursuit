@@ -1,5 +1,4 @@
 { "question" : {
-    "id": "",
     "category": "algorithms",
     "nerd_level": 2,
     "text": "What's the average run time of a search in a Binary Search Tree?",

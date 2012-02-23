@@ -1,6 +1,5 @@
 {
   "question": {
-    "id": "",
     "nerd_level": 2,
     "category": "ruby",
     "text": "Which method is used for comparisions in case ... when statement?",

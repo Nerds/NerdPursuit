@@ -1,6 +1,5 @@
 {
   "question": {
-    "id": "",
     "category": "css",
     "nerd_level": 2,
     "text": "What is the right property for attribute 'position' to have the element always in the relative position to the browser frames even if page is scrolled?",

@@ -1,5 +1,4 @@
 { "question" : {
-    "id": "",
     "category": "rails",
     "nerd_level": 1,
     "text":"When was Rails first shown to the public?",
