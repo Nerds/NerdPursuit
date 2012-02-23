@@ -1,5 +1,4 @@
 { "question" : {
-    "id": "",
     "category": "ruby",
     "nerd_level": 1,
     "text": "What are the outputs for a == b and a.equal?(b) with a = 'xy' and b = a?",

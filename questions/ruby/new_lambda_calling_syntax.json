@@ -1,5 +1,4 @@
 { "question" : {
-    "id": "",
     "category": "ruby",
     "nerd_level": 3,
     "text":"How to call a lambda, assigned to a variable named foo in ruby 1.9?",

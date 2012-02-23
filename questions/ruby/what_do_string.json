@@ -1,5 +1,4 @@
 { "question" : {
-    "id": "",
     "category": "ruby",
     "nerd_level": 2,
     "text":"What is the result of \"hello\".tr_s('l','r')?",

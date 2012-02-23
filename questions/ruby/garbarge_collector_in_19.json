@@ -1,6 +1,5 @@
 {
   "question": {
-    "id": "",
     "nerd_level": 3,
     "text": "Which garbage collecting technique is used by Ruby1.9/YARV?",
     "a1": "Reference counting",

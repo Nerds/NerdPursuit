@@ -1,6 +1,5 @@
 {
   "question": {
-    "id": "",
     "category": "css",
     "nerd_level": 3,
     "text": "Why it's better to use <img.. /> tag instead of background whenever it's possible?",

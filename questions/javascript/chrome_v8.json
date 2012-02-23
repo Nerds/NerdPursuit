@@ -1,5 +1,4 @@
 { "question" : {
-    "id": "",
     "category": "javascript",
     "nerd_level": 1,
     "text": "What is the name of the javascript engine in google chrome.",

@@ -1,5 +1,4 @@
 { "question" : {
-    "id": "",
     "category": "regex",
     "nerd_level": 5,
     "text": "This regex is normally used to determine if a number is not prime: /^1?$|^(1+?)\1+$/, but it is broken, how to fix it? The number has the format /1{number}/.",

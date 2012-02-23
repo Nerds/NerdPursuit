@@ -1,6 +1,5 @@
 {
   "question": {
-    "id": "",
     "category": "javascript",
     "nerd_level": 2,
     "text": "What does `['3','2','1','0'].map(parseInt)` evaluate to?",

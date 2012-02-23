@@ -1,5 +1,4 @@
 { "question" : {
-    "id": "",
     "category": "ruby",
     "nerd_level": 1,
     "text": "Which hash can be accessed by string and symbolized keys",

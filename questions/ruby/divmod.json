@@ -1,5 +1,4 @@
 { "question" : {
-    "id": "",
     "category": "ruby",
     "nerd_level": 3,
     "text": "What is the output of 13456.divmod(100)[0]?",

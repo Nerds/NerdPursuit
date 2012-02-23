@@ -1,5 +1,4 @@
 { "question" : {
-    "id": "",
     "category": "ruby",
     "nerd_level": 1,
     "text": "What is the absolute superclass in Ruby 1.9?",

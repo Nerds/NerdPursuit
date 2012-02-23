@@ -1,5 +1,4 @@
 { "question" : {
-    "id": "",
     "category": "rails",
     "nerd_level": 3,
     "text": "What's the output of pluralize(2, 'person') ?",

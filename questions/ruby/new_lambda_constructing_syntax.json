@@ -1,5 +1,4 @@
 { "question" : {
-    "id": "",
     "category": "ruby",
     "nerd_level": 3,
     "text":"What is the new literal for constructing lambda's in ruby 1.9?",

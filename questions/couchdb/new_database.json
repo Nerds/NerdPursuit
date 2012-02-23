@@ -1,5 +1,4 @@
 { "question" : {
-    "id": "",
     "category": "couchdb",
     "nerd_level": 2,
     "text":"How to create a couchdb collection called 'nerds' with curl",

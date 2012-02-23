@@ -1,5 +1,4 @@
 { "question" : {
-    "id": "",
     "category": "css",
     "nerd_level": 4,
     "text":"How would you style all links to PDF files via CSS?",

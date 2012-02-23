@@ -1,5 +1,4 @@
 { "question" : {
-    "id": "",
     "category": "http",
     "nerd_level": 5,
     "text":"What does the HTCPCP response 418 stand for?",

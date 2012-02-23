@@ -1,5 +1,4 @@
 { "question" : {
-    "id": "",
     "category": "ruby",
     "nerd_level": 5,
     "text": "Which Ruby module can be used to convert Kanji into UTF-8",

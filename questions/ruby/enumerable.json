@@ -1,5 +1,4 @@
 { "question" : {
-    "id": "",
     "category": "ruby",
     "nerd_level": 1,
     "text": "Which module is included in Hash and Array to faciliate traversal and searching.",

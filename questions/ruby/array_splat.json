@@ -1,5 +1,4 @@
 { "question" : {
-    "id": "",
     "category": "ruby",
     "nerd_level": 1,
     "text": "What is the correct way to pass [arg1, arg2] as an argument to User.send(:my_method)?",
