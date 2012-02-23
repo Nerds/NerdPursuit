@@ -1,6 +1,5 @@
 {
   "question": {
-    "id": "",
     "category": "javascript",
     "nerd_level": 1,
     "text": "Who created jQuery?",
@@ -9,6 +8,7 @@
     "right_answer": "a2",
     "a1": "Douglas Crockford",
     "a2": "John Resig",
-    "a3": "Sam Stephenson"
+    "a3": "Sam Stephenson",
+    "a4": "David Chelimsky"
   }
 }

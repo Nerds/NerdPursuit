@@ -1,0 +1,14 @@
+{ "question" : {
+    "id": "",
+    "category": "python",
+    "nerd_level": 2,
+    "text": "Which one of these statements squares all the numbers in the list l?",
+    "a1": "l.sq_each()",
+    "a2": "[l[i]**2 for i in range(len(l))]",
+    "a3": "[n** * for n in l]",
+    "a4": "lambda l: [n**n for n in l]",
+    "right_answer": "a2",
+    "created_at": "2011-09-15",
+    "created_by": "kragniz"
+  }
+}

@@ -3,7 +3,11 @@
     "category": "javascript",
     "nerd_level": 1,
     "text": "What is the name of the javascript engine in google chrome.",
-    "a1": "v8",
+    "a1": "V8",
+    "a2": "SquirrelFish",
+    "a3": "SpiderMonkey",
+    "a4": "Rhine",
+    "right_answer": "a1",
     "created_at": "2011-05-16",
     "created_by": "Schorsch"
   }

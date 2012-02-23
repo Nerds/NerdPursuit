@@ -1,0 +1,15 @@
+{
+  "question": {
+    "id": "",
+    "nerd_level": 1,
+    "text": "What does !~ operator do?",
+    "a1": "Performs bitwise XOR on its arguments",
+    "a2": "Returns the index of the first character matching the regexp",
+    "a3": "Returns false if the arguments match",
+    "a4": "Returns true if the arguments match",
+    "right_answer": "a3",
+    "created_at": "2011-09-08",
+    "category": "ruby",
+    "created_by": "Michał Łomnicki"
+  }
+}

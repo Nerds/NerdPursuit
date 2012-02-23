@@ -4,17 +4,19 @@
   "description":"A question",
   "name": "Question",
   "properties":{
-    "id": {
-      "description": "uuid of the question, reserved if data is used in db.",
-      "identity":true,
-      "readonly":true,
-      "type":"string"
-    },
     "category":{
       "type":"string",
       "description":"The questions main category",
       "maxLength": 30,
+      /* "enum": ["culture", "code",  ], her we need our new 4 main cats */
       "required":true
+    },
+    "sub_category":{
+      "type":"string",
+      "description":"The questions main category",
+      "maxLength": 30,
+      "enum": ["algorithms","bash","couchdb","css", "culture", "data", "flash", "grafix", "html","http","javascript", "php", "python","rails","ruby","regex" ]
+      /* "required":true */
     },
     "nerd_level":{
       "type":"number",
@@ -38,17 +40,20 @@
     "a2":{
       "type":"string",
       "description":"Second multiple choice answer",
-      "maxLength": 80
+      "maxLength": 80,
+      "required":true
     },
     "a3":{
       "type":"string",
       "description":"Third multiple choice answer",
-      "maxLength": 80
+      "maxLength": 80,
+      "required":true
     },
     "a4":{
       "type":"string",
       "description":"Forth multiple choice answer",
-      "maxLength": 80
+      "maxLength": 80,
+      "required":true
     },
     "right_answer":{
       "type":"string",
@@ -57,7 +62,7 @@
       "default": "a1"
     },
     "created_at": {
-      "description": "Date the object was created. Never changes afterwards",
+      "description": "Date the object was created. Never changes afterwards YYYY-MM-DD",
       "format":"date",
       "readonly":true,
       "type":"string"
