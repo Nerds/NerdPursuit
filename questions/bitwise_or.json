@@ -1,5 +1,6 @@
 { "question" : {
-    "category": "ruby",
+    "sub_category": "ruby",
+    "category": "backend",
     "nerd_level": 1,
     "text": "What's the output of 5 | 2?",
     "a1": "0",

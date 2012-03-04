@@ -1,5 +1,6 @@
 { "question" : {
-    "category": "javascript",
+    "sub_category": "javascript",
+    "category": "backend",
     "nerd_level": 4,
     "text":"Which one is correct JSON?",
     "a1": "\"name\" : 'Answer'",

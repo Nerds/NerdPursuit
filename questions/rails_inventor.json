@@ -1,4 +1,5 @@
 { "question" : {
+    "sub_category": "culture",
     "category": "culture",
     "nerd_level": 1,
     "text":"Who invented Ruby on Rails?",

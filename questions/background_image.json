@@ -1,6 +1,7 @@
 {
   "question": {
-    "category": "css",
+    "sub_category": "css",
+    "category": "frontend",
     "nerd_level": 3,
     "text": "Why it's better to use <img.. /> tag instead of background whenever it's possible?",
     "a1": "Easier to manage images in dev mode.",

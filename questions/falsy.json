@@ -1,5 +1,6 @@
 { "question" : {
-    "category": "ruby",
+    "sub_category": "ruby",
+    "category": "backend",
     "nerd_level": 1,
     "text": "Which of these are the only falsy entities in Ruby?",
     "a1": "0, false, and nil",

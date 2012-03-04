@@ -1,5 +1,6 @@
 { "question" : {
-    "category": "ruby",
+    "sub_category": "ruby",
+    "category": "backend",
     "nerd_level": 1,
     "text": "Where is a.id == b.id?",
     "a1": "a = 'xy'; b = 'xy'",

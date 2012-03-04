@@ -1,6 +1,7 @@
 {
   "question": {
-    "category": "ruby",
+    "sub_category": "ruby",
+    "category": "backend",
     "right_answer": "a1",
     "nerd_level": 3,
     "text": "Mixins are an example of what design pattern?",

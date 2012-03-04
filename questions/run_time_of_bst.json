@@ -1,5 +1,6 @@
 { "question" : {
-    "category": "algorithms",
+    "sub_category": "algorithms",
+    "category": "backend",
     "nerd_level": 2,
     "text": "What's the average run time of a search in a Binary Search Tree?",
     "a1": "O(n)",

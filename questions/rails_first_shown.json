@@ -1,5 +1,6 @@
 { "question" : {
-    "category": "rails",
+    "sub_category": "rails",
+    "category": "backend",
     "nerd_level": 1,
     "text":"When was Rails first shown to the public?",
     "a1": "2003",

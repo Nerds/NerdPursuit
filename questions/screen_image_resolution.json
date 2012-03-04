@@ -1,5 +1,6 @@
 { "question" : {
-    "category": "grafix",
+    "sub_category": "grafix",
+    "category": "design",
     "nerd_level": 1,
     "text": "Which image resolution should be used for screen layouts/images?",
     "a1": "150",

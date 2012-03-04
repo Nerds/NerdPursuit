@@ -1,5 +1,6 @@
 { "question" : {
-    "category": "javascript",
+    "sub_category": "javascript",
+    "category": "backend",
     "nerd_level": 3,
     "text": "Whats the value of (function() { return typeof arguments; })()?",
     "a1": "array",

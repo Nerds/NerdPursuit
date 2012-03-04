@@ -1,5 +1,6 @@
 { "question" : {
-    "category": "php",
+    "sub_category": "php",
+    "category": "culture",
     "nerd_level": 1,
     "text":"When php was invented?",
     "a1": "2001",
@@ -8,6 +9,8 @@
     "a4": "1999",
     "right_answer":"a3",
     "created_at": "2011-07-16",
-    "created_by": "Koos"
+    "created_by": "Koos",
+    "created_by_github_name": "koos",
+    "created_by_twitter_name": "koos"
   }
 }

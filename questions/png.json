@@ -1,5 +1,6 @@
 { "question" : {
-    "category": "grafix",
+    "sub_category": "grafix",
+    "category": "design",
     "nerd_level": 1,
     "text": "What are the advantages of PNGs?",
     "a1": "alpha-channel and lossless compression",

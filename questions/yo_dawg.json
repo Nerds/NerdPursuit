@@ -1,5 +1,6 @@
 { "question" : {
-    "category": "memes",
+    "category": "culture",
+    "sub_category": "culture",
     "nerd_level": 2,
     "text":"Yo dawg, I herd you like ...",
     "a1": "music, so I put a tape in your pants so you can listen while you sleep!",

@@ -1,5 +1,6 @@
 { "question" : {
-    "category": "ruby",
+    "sub_category": "ruby",
+    "category": "backend",
     "nerd_level": 2,
     "text":"What is the result of \"hello\".tr_s('l','r')?",
     "a1": "hero",

@@ -1,5 +1,6 @@
 { "question" : {
-    "category": "rails",
+    "sub_category": "rails",
+    "category": "backend",
     "nerd_level": 2,
     "text":"What does rake about do?",
     "a1": "Shows the README of the rails app",

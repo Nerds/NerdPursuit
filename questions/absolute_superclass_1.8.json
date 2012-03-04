@@ -1,5 +1,6 @@
 { "question" : {
-    "category": "ruby",
+    "sub_category": "ruby",
+    "category": "backend",
     "nerd_level": 1,
     "text": "What is the absolute superclass, the mother of all classes, in Ruby 1.8?",
     "a1": "MotherClass",

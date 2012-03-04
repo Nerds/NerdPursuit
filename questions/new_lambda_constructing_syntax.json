@@ -1,5 +1,6 @@
 { "question" : {
-    "category": "ruby",
+    "sub_category": "ruby",
+    "category": "backend",
     "nerd_level": 3,
     "text":"What is the new literal for constructing lambda's in ruby 1.9?",
     "a1": "l()",

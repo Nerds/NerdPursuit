@@ -6,17 +6,17 @@
   "properties":{
     "category":{
       "type":"string",
-      "description":"The questions main category",
+      "description":"The questions main sub_category",
       "maxLength": 30,
-      /* "enum": ["culture", "code",  ], her we need our new 4 main cats */
+      "enum": ["culture", "backend", "frontend", "design", "startup & founding", "social" ],
       "required":true
     },
     "sub_category":{
       "type":"string",
-      "description":"The questions main category",
+      "description":"The questions main sub_category",
       "maxLength": 30,
-      "enum": ["algorithms","bash","couchdb","css", "culture", "data", "flash", "grafix", "html","http","javascript", "php", "python","rails","ruby","regex" ]
-      /* "required":true */
+      "enum": ["algorithms","bash","couchdb","css", "culture", "data", "flash", "grafix", "html","http","javascript", "php", "python","rails","ruby","regex" ],
+      "required":true
     },
     "nerd_level":{
       "type":"number",
@@ -69,6 +69,16 @@
     },
     "created_by": {
       "description": "Name of the person who supplied the question",
+      "readonly":true,
+      "type":"string"
+    },
+    "created_by_twitter_name": {
+      "description": "Twitternamer of the person who supplied the question",
+      "readonly":true,
+      "type":"string"
+    },
+    "created_by_github_name": {
+      "description": "Githubname of the person who supplied the question",
       "readonly":true,
       "type":"string"
     }

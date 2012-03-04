@@ -1,5 +1,6 @@
 { "question" : {
-    "category": "nerdism",
+    "sub_category": "culture",
+    "category": "culture",
     "nerd_level": 2,
     "text":"Which totally true prediction comes from Bill Gates in 2004",
     "a1": "Computers in the future may weigh no more than 1.5 tons",

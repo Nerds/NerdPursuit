@@ -13,7 +13,7 @@ Comment commits and pull requests or create a ticket.
 
 Thanks to marcinbunsch, who created a commandline interface to create new 
 questions(he hates writing json). Start it with:
-    ./creator [category]
+    ./creator [sub_category]
 
 ## Tech
 

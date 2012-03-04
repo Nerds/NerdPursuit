@@ -1,5 +1,6 @@
 { "question" : {
-    "category": "css",
+    "sub_category": "css",
+    "category": "frontend",
     "nerd_level": 3,
     "text":"What would you use to write device- or screen-size specific css?",
     "a1": "Javascript",

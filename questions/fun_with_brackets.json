@@ -1,5 +1,6 @@
 { "question" : {
-    "category": "javascript",
+    "sub_category": "javascript",
+    "category": "backend",
     "nerd_level": 5,
     "text": "Which of this expressions has value 11?",
     "a1": "+[++[+[]][+[]]+[]+[++[+[]][+[]]]]",

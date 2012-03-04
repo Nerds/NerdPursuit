@@ -1,6 +1,7 @@
 {
   "question": {
-    "category": "ruby",
+    "sub_category": "ruby",
+    "category": "backend",
     "right_answer": "a2",
     "nerd_level": 4,
     "text": "What is the spaceship operator?",

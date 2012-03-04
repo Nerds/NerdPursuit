@@ -1,5 +1,6 @@
 { "question" : {
-    "category": "ruby",
+    "sub_category": "ruby",
+    "category": "backend",
     "nerd_level": 2,
     "text": "What is the result of 'a' == ('b' || 'a')",
     "a1": "a",
@@ -8,6 +9,8 @@
     "a4": "false",
     "right_answer": "a4",
     "created_at": "2011-06-08",
-    "created_by": "koos"
+    "created_by": "koos",
+    "created_by_github_name": "koos",
+    "created_by_twitter_name": "koos"
   }
 }

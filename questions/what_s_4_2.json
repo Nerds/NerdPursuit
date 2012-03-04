@@ -1,6 +1,7 @@
 {
   "question": {
-    "category": "javascript",
+    "sub_category": "javascript",
+    "category": "backend",
     "nerd_level": 1,
     "text": "What's '4' + 2?",
     "created_by": "Marcin Bunsch",

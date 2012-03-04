@@ -1,5 +1,6 @@
 { "question" : {
-    "category": "ruby",
+    "sub_category": "ruby",
+    "category": "culture",
     "nerd_level": 2,
     "text":"How many gems can you download at Rubygems.org on June 2011?",
     "a1": "ca 15000",

@@ -1,5 +1,6 @@
 { "question" : {
-    "category": "javascript",
+    "sub_category": "javascript",
+    "category": "backend",
     "nerd_level": 4,
     "text": "Which of these Immediately-Invoked Function Expressions won't give you a NERD-ALERT?",
     "a1": "~function(){ alert('NERD'); }();",

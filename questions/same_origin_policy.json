@@ -1,5 +1,6 @@
 { "question" : {
-    "category": "javascript",
+    "sub_category": "javascript",
+    "category": "backend",
     "nerd_level": 4,
     "text":"Why can't you just request files from external servers via XMLHttpRequest in a web-browser?",
     "a1": "XSS",

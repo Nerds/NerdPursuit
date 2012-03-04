@@ -1,7 +1,8 @@
 {
   "question": {
     "nerd_level": 2,
-    "category": "ruby",
+    "sub_category": "ruby",
+    "category": "backend",
     "text": "What does GIL stands for?",
     "a1": "The name of a Ruby dialect for embedded devices",
     "a2": "Game Illegaly Loaded",

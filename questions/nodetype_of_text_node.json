@@ -1,5 +1,6 @@
 { "question" : {
-    "category": "javascript",
+    "sub_category": "javascript",
+    "category": "backend",
     "nerd_level": 3,
     "text": "What's the nodeType value of text nodes?",
     "a1": "1",

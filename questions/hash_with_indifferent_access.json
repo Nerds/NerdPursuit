@@ -1,5 +1,6 @@
 { "question" : {
-    "category": "ruby",
+    "sub_category": "ruby",
+    "category": "backend",
     "nerd_level": 1,
     "text": "Which hash can be accessed by string and symbolized keys",
     "a1": "Any ruby hash",

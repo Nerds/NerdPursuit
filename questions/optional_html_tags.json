@@ -1,5 +1,6 @@
 { "question" : {
-    "category": "html",
+    "sub_category": "html",
+    "category": "frontend",
     "nerd_level": 2,
     "text":"Which one of these tags is not specified as optional according to the HTML 4.01 Strict DTD?",
     "a1": "<html>",

@@ -1,5 +1,6 @@
 { "question" : {
-    "category": "html",
+    "sub_category": "html",
+    "category": "frontend",
     "nerd_level": 2,
     "text":"Attribute that is not allowed in Strict DOCTYPE",
     "a1": "bgcolor",

@@ -1,5 +1,6 @@
 { "question" : {
-    "category": "ruby",
+    "sub_category": "ruby",
+    "category": "backend",
     "nerd_level": 1,
     "text":"Who invented Ruby?",
     "a1": "Yukihiro Matsumoto",
@@ -8,6 +9,8 @@
     "a4": "Ransom E. Olds",
     "right_answer":"a1",
     "created_at": "2011-05-09",
-    "created_by": "Koos"
+    "created_by": "Koos",
+    "created_by_github_name": "koos",
+    "created_by_twitter_name": "koos"
   }
 }

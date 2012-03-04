@@ -1,5 +1,6 @@
 { "question" : {
-    "category": "ruby",
+    "sub_category": "ruby",
+    "category": "backend",
     "nerd_level": 2,
     "text": "What is Kernel?",
     "a1": "The thing holding your OS together, sometimes a bit panicky.",

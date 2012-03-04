@@ -1,7 +1,8 @@
 {
   "question": {
     "nerd_level": 1,
-    "category": "ruby",
+    "sub_category": "ruby",
+    "category": "culture",
     "text": "How is Ruby licensed?",
     "a1": "Microsoft EULA",
     "a2": "PHP License",

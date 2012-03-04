@@ -1,5 +1,6 @@
 { "question" : {
-    "category": "ruby",
+    "sub_category": "ruby",
+    "category": "backend",
     "nerd_level": 1,
     "text": "What are the outputs for a == b and a.equal?(b) with a = 'xy' and b = 'xy'?",
     "a1": "true and false",

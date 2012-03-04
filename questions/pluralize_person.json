@@ -1,5 +1,6 @@
 { "question" : {
-    "category": "rails",
+    "sub_category": "rails",
+    "category": "backend",
     "nerd_level": 3,
     "text": "What's the output of pluralize(2, 'person') ?",
     "a1": "personperson",

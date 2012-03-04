@@ -1,6 +1,7 @@
 {
  "question" : {
-    "category": "ruby",
+    "sub_category": "ruby",
+    "category": "backend",
     "nerd_level": 1,
     "text":"Which one will sum up an array of numbers?",
     "a1": "[1,2,3].sum",

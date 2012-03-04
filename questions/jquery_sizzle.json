@@ -1,5 +1,6 @@
 { "question" : {
-    "category": "javascript",
+    "sub_category": "javascript",
+    "category": "backend",
     "nerd_level": 1,
     "text": "What is the name of the css selector engine in jQuery.",
     "a1": "hot-css",

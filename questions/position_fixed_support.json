@@ -1,5 +1,6 @@
 { "question" : {
-    "category": "css",
+    "sub_category": "css",
+    "category": "frontend",
     "nerd_level": 2,
     "text":"Which of the following browsers does not support css position:fixed?",
     "a1": "Firefox 4",

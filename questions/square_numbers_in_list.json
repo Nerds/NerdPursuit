@@ -1,5 +1,6 @@
 { "question" : {
-    "category": "python",
+    "sub_category": "python",
+    "category": "backend",
     "nerd_level": 2,
     "text": "Which one of these statements squares all the numbers in the list l?",
     "a1": "l.sq_each()",

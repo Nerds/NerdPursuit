@@ -1,6 +1,7 @@
 {
   "question": {
-    "category": "javascript",
+    "category": "backend",
+    "sub_category": "javascript",
     "nerd_level": 1,
     "text": "Who created jQuery?",
     "created_by": "Marcin Bunsch",

@@ -1,6 +1,7 @@
 {
   "question": {
-    "category": "html",
+    "category": "frontend",
+    "sub_category": "html",
     "nerd_level": 2,
     "text": "How do you specify HTML5 doctype?",
     "created_by": "Philipp Brumm",

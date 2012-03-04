@@ -1,5 +1,6 @@
 { "question" : {
-    "category": "bash",
+    "sub_category": "bash",
+    "category": "backend",
     "nerd_level": 3,
     "text": "How to switch back to the previous directory?",
     "a1": "cd ...",

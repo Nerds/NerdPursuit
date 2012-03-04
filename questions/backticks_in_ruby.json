@@ -1,6 +1,7 @@
 {
   "question": {
-    "category": "ruby",
+    "sub_category": "ruby",
+    "category": "backend",
     "right_answer": "a3",
     "nerd_level": 4,
     "text": "Backticks ` in ruby",

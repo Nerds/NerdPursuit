@@ -1,5 +1,6 @@
 { "question" : {
-    "category": "memes",
+    "sub_category": "culture",
+    "category": "culture",
     "nerd_level": 2,
     "text":"Know your meme: Who said 'All your base are belong to us' originally?",
     "a1": "Mechanic",
