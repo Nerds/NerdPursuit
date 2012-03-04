@@ -9,6 +9,6 @@
     "a4": "/foo(?!=bar)/",
     "right_answer": "a2",
     "created_at": "2011-06-07",
-    "created_by": "mkorfmann"
+    "creator": "mkorfmann"
   }
 }

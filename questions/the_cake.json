@@ -3,14 +3,13 @@
     "nerd_level": 1,
     "text": "The cake...",
     "a1": "is moist",
-    "created_by": "Mike Poltyn",
+    "creator": "Mike Poltyn",
     "a2": "is delicious",
     "a3": "was crushed by a giant robot",
     "created_at": "2011-06-15",
     "a4": "is a lie",
     "sub_category": "culture",
     "category": "culture",
-    "right_answer": "a4",
-    "id": ""
+    "right_answer": "a4"
   }
 }

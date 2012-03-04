@@ -18,7 +18,7 @@ describe 'question' do
         question = JSON.parse( json_str.respond_to?(:force_encoding ) ? json_str.force_encoding('UTF-8') : json_str)['question']
         JSON::Validator.validate!(schema, question, :version=> :draft3 )
       rescue JSON::Schema::ValidationError => schema_error
-         assertion =  false, schema_error.message + "\nIn: #{file}\n[#{question['created_by']}, please fix this and send another pull request!]"
+         assertion =  false, schema_error.message + "\nIn: #{file}\n[#{question['creator']}, please fix this and send another pull request!]"
       rescue JSON::ParserError => parser_error
          assertion =  false, parser_error.message
       else

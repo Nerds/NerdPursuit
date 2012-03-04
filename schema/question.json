@@ -67,17 +67,18 @@
       "readonly":true,
       "type":"string"
     },
-    "created_by": {
+    "creator": {
       "description": "Name of the person who supplied the question",
       "readonly":true,
-      "type":"string"
+      "type":"string",
+      "required":true
     },
-    "created_by_twitter_name": {
+    "creator_twitter": {
       "description": "Twitternamer of the person who supplied the question",
       "readonly":true,
       "type":"string"
     },
-    "created_by_github_name": {
+    "creator_github": {
       "description": "Githubname of the person who supplied the question",
       "readonly":true,
       "type":"string"

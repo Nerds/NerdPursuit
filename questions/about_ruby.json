@@ -9,8 +9,8 @@
     "a4": "Ransom E. Olds",
     "right_answer":"a1",
     "created_at": "2011-05-09",
-    "created_by": "Koos",
-    "created_by_github_name": "koos",
-    "created_by_twitter_name": "koos"
+    "creator": "Jan Kus",
+    "creator_github": "koos",
+    "creator_twitter": "koos"
   }
 }

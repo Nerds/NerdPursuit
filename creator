@@ -54,7 +54,7 @@
 #   :category => category,
 #   :nerd_level => level,
 #   :text => question,
-#   :created_by => creator,
+#   :creator => creator,
 #   :created_at => Time.now.strftime('%Y-%m-%d'),
 #   :right_answer => "a#{correct_index + 1}"
 # }

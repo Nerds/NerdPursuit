@@ -1,7 +1,7 @@
 {
   "question": {
     "text": "What's typeof null?",
-    "created_by": "Jörn Zaefferer",
+    "creator": "Jörn Zaefferer",
     "a1": "'object'",
     "a2": "'instance'",
     "a3": "'class'",
