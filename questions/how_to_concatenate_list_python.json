@@ -4,7 +4,7 @@
     "sub_category": "python",
     "right_answer": "a1",
     "nerd_level": 2,
-    "text": "How to concatenate a list [a, b] into a comma-seperated string?",
+    "text": "How can a comma-seperated string be created from the list [a,b]?",
     "a1": "\",\".join([a, b])",
     "a2": "[a, b].join(\",\")",
     "a3": "implode([a, b], \",\")",
