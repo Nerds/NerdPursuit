@@ -4,7 +4,7 @@
     "sub_category": "python",
     "right_answer": "a4",
     "nerd_level": 2,
-    "text": "How to open the main routine?",
+    "text": "How is the `main` routine idiomatically defined in Python?",
     "a1": "if name == main:",
     "a2": "if _name_ == _main_",
     "a3": "if _name_ == \"_main_\":",
