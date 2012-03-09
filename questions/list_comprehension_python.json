@@ -1,0 +1,17 @@
+{
+  "question": {
+    "category": "backend",
+    "sub_category": "python",
+    "right_answer": "a3",
+    "nerd_level": 1,
+    "text": "Which one is valid list comprehension?",
+    "a1": "[while n in foo: foo[n]]",
+    "a2": "[n while n in foo]",
+    "a3": "[n for n in foo]",
+    "a4": "[n for foo]",
+    "creator": "Marian Steinbach",
+    "creator_github": "marians",
+    "creator_twitter": "MarianSteinbach",
+    "created_at": "2012-03-09"
+  }
+}
