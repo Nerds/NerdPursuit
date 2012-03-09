@@ -4,7 +4,7 @@
     "sub_category": "python",
     "right_answer": "a3",
     "nerd_level": 2,
-    "text": "How can code be indented according to PEP 8?",
+    "text": "How should code be indented according to PEP 8?",
     "a1": "One tab",
     "a2": "Two spaces",
     "a3": "Four spaces",
