@@ -1,0 +1,17 @@
+{
+  "question": {
+    "category": "backend",
+    "sub_category": "python",
+    "right_answer": "a3",
+    "nerd_level": 2,
+    "text": "What is the correct name of the Python module repository?",
+    "a1": "PypI",
+    "a2": "PIPI",
+    "a3": "PyPI",
+    "a4": "PiPy",
+    "creator": "Marian Steinbach",
+    "creator_github": "marians",
+    "creator_twitter": "MarianSteinbach",
+    "created_at": "2012-03-09"
+  }
+}
