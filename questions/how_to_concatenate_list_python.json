@@ -1,0 +1,17 @@
+{
+  "question": {
+    "category": "backend",
+    "sub_category": "python",
+    "right_answer": "a1",
+    "nerd_level": 2,
+    "text": "How to concatenate a list [a, b] into a comma-seperated string?",
+    "a1": "\",\".join([a, b])",
+    "a2": "[a, b].join(\",\")",
+    "a3": "implode([a, b], \",\")",
+    "a4": "[a, b].concat(\",\")",
+    "creator": "Marian Steinbach",
+    "creator_github": "marians",
+    "creator_twitter": "MarianSteinbach",
+    "created_at": "2012-03-09"
+  }
+}
