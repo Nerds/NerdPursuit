@@ -15,7 +15,7 @@
       "type":"string",
       "description":"The questions main sub_category",
       "maxLength": 30,
-      "enum": ["algorithms","bash","couchdb","css", "culture", "data", "flash", "grafix", "html","http","javascript", "php", "python","rails","ruby","regex" ],
+      "enum": ["algorithms","bash","couchdb","css", "culture", "data", "encoding", "flash", "grafix", "html","http","javascript", "php", "python","rails","ruby","regex" ],
       "required":true
     },
     "nerd_level":{
