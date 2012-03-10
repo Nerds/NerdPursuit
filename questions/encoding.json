@@ -1,11 +1,11 @@
 {
   "question": {
     "nerd_level": 3,
-    "text": "What does the UTF-8 character &#128169; equal?",
-    "a1": "Left arrow",
-    "a2": "Right arrow",
-    "a3": "Pile of poo",
-    "a4": "The Arabic letter Beh",
+    "text": "Which UTF-8 character is NOT a real, defined character?",
+    "a1": "Love Hotel",
+    "a2": "Roasted sweet potato",
+    "a3": "Chinese symbol for the internet",
+    "a4": "A steaming pile of poo",
     "category": "design",
     "sub_category": "encoding",
     "right_answer": "a3",
