@@ -1,0 +1,15 @@
+{
+  "question": {
+    "nerd_level": 3,
+    "text": "What does the UTF-8 character &#128169; equal?",
+    "a1": "Left arrow",
+    "a2": "Right arrow",
+    "a3": "Pile of poo",
+    "a4": "The Arabic letter Beh",
+    "category": "design",
+    "sub_category": "encoding",
+    "right_answer": "a3",
+    "created_at": "2012-03-10",
+    "creator": "marcgreenstock"
+  }
+}
