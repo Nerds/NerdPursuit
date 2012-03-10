@@ -2,7 +2,7 @@
   "question": {
     "category": "backend",
     "sub_category": "python",
-    "right_answer": "a1",
+    "right_answer": "a3",
     "nerd_level": 1,
     "text": "How to remove variable a from memory?",
     "a1": "a = None",
