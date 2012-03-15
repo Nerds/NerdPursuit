@@ -1,15 +1,20 @@
-#q = { question: {
-#:category => "culture",
-#:sub_category => "oreilly",
-#:nerd_level => 1,
-#:text => "The #{key} is associated with which O'Reilly books?",
-#:a1 => "#{$hh[key]}",
-#:created_at => "2012-03-10",
-#:right_answer => "a1",
-#:creator => "a2800276"
-#}
-#}
-
+# Takes a file containing the actual question and
+# answer, one per line:
+#
+#  Where is `size_t` defined?
+#  stddef.h
+#  stdarg.h
+#  stdlib.h
+#  stdio.h
+#  programming
+#  C
+#  1
+#
+# (the last 3 lines are category, sub_category(wtf?) and optional 'nerd_level')
+#
+# These are merged w/ personal data taken from ~/.nerdpursuit
+# and the very ornate jsonschema format is generated.
+#
 
 def read_ini
   iNI = %w{creator creator_twitter creator_github nerd_level}
