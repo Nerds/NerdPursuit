@@ -15,19 +15,19 @@
       "type":"string",
       "description":"The questions main sub_category",
       "maxLength": 30,
-      "enum": ["algorithms","bash","couchdb","css", "culture", "data", "flash", "graphics", "html","http","javascript", "php", "python","rails","ruby","regex", "C" ],
+      "enum": ["algorithms","bash", "C", "couchdb","css", "culture", "data", "encoding", "flash", "graphics", "html","http","javascript", "php", "python","rails","ruby","regex" ],
       "required":true
     },
     "nerd_level":{
       "type":"number",
-      "description":"Difficulty level, real nerds score higher.",
+      "description":"Difficulty level, 0=easy -> 5=supernerdy.",
       "minimum": 0,
       "maximum": 5,
       "required":true
     },
     "text":{
       "type":"string",
-      "description":"The question himself",
+      "description":"The question",
       "maxLength": 160,
       "required":true
     },
@@ -51,7 +51,7 @@
     },
     "a4":{
       "type":"string",
-      "description":"Forth multiple choice answer",
+      "description":"Fourth multiple choice answer",
       "maxLength": 80,
       "required":true
     },
@@ -62,7 +62,7 @@
       "default": "a1"
     },
     "created_at": {
-      "description": "Date the object was created. Never changes afterwards YYYY-MM-DD",
+      "description": "Date the question was created. Never changes afterwards YYYY-MM-DD",
       "format":"date",
       "readonly":true,
       "type":"string"
@@ -74,12 +74,12 @@
       "required":true
     },
     "creator_twitter": {
-      "description": "Twitternamer of the person who supplied the question",
+      "description": "Twitter handle of the person who supplied the question",
       "readonly":true,
       "type":"string"
     },
     "creator_github": {
-      "description": "Githubname of the person who supplied the question",
+      "description": "Github username of the person who supplied the question",
       "readonly":true,
       "type":"string"
     }
