@@ -8,14 +8,14 @@
       "type":"string",
       "description":"The questions main sub_category",
       "maxLength": 30,
-      "enum": ["culture", "backend", "frontend", "design", "startup & founding", "social" ],
+      "enum": ["programming", "culture", "backend", "frontend", "design", "startup & founding", "social" ],
       "required":true
     },
     "sub_category":{
       "type":"string",
       "description":"The questions main sub_category",
       "maxLength": 30,
-      "enum": ["algorithms","bash","couchdb","css", "culture", "data", "flash", "grafix", "html","http","javascript", "php", "python","rails","ruby","regex" ],
+      "enum": ["algorithms","bash","couchdb","css", "culture", "data", "flash", "graphics", "html","http","javascript", "php", "python","rails","ruby","regex", "C" ],
       "required":true
     },
     "nerd_level":{
