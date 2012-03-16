@@ -1,7 +1,7 @@
 {
   "question": {
     "nerd_level": 1,
-    "text": "How to get and remove the first element of an array.",
+    "text": "How to get and remove the last element of an array.",
     "a1": "[1,2,3].pop",    
     "a2": "[1,2,3].last",
     "a3": "[1,2,3].shift",
