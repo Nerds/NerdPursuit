@@ -1,0 +1,15 @@
+{
+  "question": {
+    "nerd_level": 5,
+    "text": "What is a monoid?",
+    "a1": "A burrito",
+    "a2": "A trigometric structure with bind and mplus",
+    "a3": "An algebraic structure with a single associative binary operation and an identity element.",
+    "a4": "A way of doing I/O.",
+    "right_answer": "a3"
+    "creator": "Steve Klabnik",
+    "created_at": "2012-03-24",
+    "sub_category": "haskell",
+    "category": "haskell",
+  }
+}
