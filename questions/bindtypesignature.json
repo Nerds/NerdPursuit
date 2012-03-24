@@ -6,10 +6,10 @@
     "a2": "(>>=) :: m a -> (a -> m b) -> m",
     "a3": "(>>=) :: m a -> (b -> m b) -> m b",
     "a4": "(>>=) :: m a -> (a -> m b) -> m b",
-    "right_answer": "a4"
+    "right_answer": "a4",
     "creator": "Steve Klabnik",
     "created_at": "2012-03-24",
     "sub_category": "haskell",
-    "category": "haskell",
+    "category": "programming"
   }
 }
