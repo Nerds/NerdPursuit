@@ -34,25 +34,25 @@
     "a1":{
       "type":"string",
       "description":"An answer",
-      "maxLength": 80,
+      "maxLength": 100,
       "required":true
     },
     "a2":{
       "type":"string",
       "description":"Second multiple choice answer",
-      "maxLength": 80,
+      "maxLength": 100,
       "required":true
     },
     "a3":{
       "type":"string",
       "description":"Third multiple choice answer",
-      "maxLength": 80,
+      "maxLength": 100,
       "required":true
     },
     "a4":{
       "type":"string",
       "description":"Fourth multiple choice answer",
-      "maxLength": 80,
+      "maxLength": 100,
       "required":true
     },
     "right_answer":{
