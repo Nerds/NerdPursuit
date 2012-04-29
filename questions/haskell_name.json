@@ -1,0 +1,16 @@
+{ "question" : {
+    "sub_category": "haskell",
+    "category": "programming",
+    "nerd_level": 4,
+    "text":"Haskell is named after?",
+    "a1": "Haskell Carlson",
+    "a2": "General Haskell",
+    "a3": "Haskell Curry",
+    "a4": "H.A. Skell",
+    "right_answer":"a3",
+    "created_at": "2012-04-29",
+    "creator": "Lucas Dohmen",
+    "creator_github": "moonglum",
+    "creator_twitter": "moonbeamlabs"
+  }
+}
