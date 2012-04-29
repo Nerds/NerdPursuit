@@ -1,0 +1,16 @@
+{ "question" : {
+    "sub_category": "haskell",
+    "category": "programming",
+    "nerd_level": 1,
+    "text":"What is Haskell?",
+    "a1": "An object oriented language",
+    "a2": "A functional programming language",
+    "a3": "A logical programming language",
+    "a4": "An imperative programming language",
+    "right_answer":"a2",
+    "created_at": "2012-04-29",
+    "creator": "Lucas Dohmen",
+    "creator_github": "moonglum",
+    "creator_twitter": "moonbeamlabs"
+  }
+}
