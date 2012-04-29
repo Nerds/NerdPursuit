@@ -1,7 +1,7 @@
 { "question" : {
     "sub_category": "haskell",
     "category": "programming",
-    "nerd_level": 4,
+    "nerd_level": 2,
     "text":"Haskell is named after?",
     "a1": "Haskell Carlson",
     "a2": "General Haskell",
