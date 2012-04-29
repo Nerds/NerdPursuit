@@ -1,0 +1,16 @@
+{ "question" : {
+    "category": "programming",
+    "sub_category": "data",
+    "nerd_level": 3,
+    "text":"Do you speak R? Given you have an vector Y. What's the result of 'var(Y)'?",
+    "a1": "Deletes Y and set it as empty variable",
+    "a2": "Calculates sample variance",
+    "a3": "Y is in global scope",
+    "a4": "There is no var function in R",
+    "right_answer":"a2",
+    "created_at": "2012-04-29",
+	"creator": "DonSchado",
+    "creator_twitter": "donschado",
+	"creator_github": "donschado"
+  }
+}
