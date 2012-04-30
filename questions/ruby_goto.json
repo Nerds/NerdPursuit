@@ -1,0 +1,16 @@
+{ "question" : {
+    "sub_category": "ruby",
+    "category": "backend",
+    "nerd_level": 3,
+    "text": "Does ruby support goto statements?",
+    "a1": "No",
+    "a2": "Only on Christmas Days with a full moon",
+    "a3": "Only on YARV compiled with the joke option set",
+    "a4": "lolwhat goto? gtfo now, kthxbye!",
+    "right_answer": "a3",
+    "created_at": "2012-04-29",
+    "creator": "Felix @thegcat",
+    "creator_github": "thegcat",
+    "creator_twitter: "thegcat"
+  }
+}

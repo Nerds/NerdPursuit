@@ -1,0 +1,16 @@
+{ "question" : {
+    "sub_category": "ruby",
+    "category": "culture",
+    "nerd_level": 5,
+    "text": "Gorbachev Thunderhorse is",
+    "a1": "@tendermeat's dog",
+    "a2": "@tenderlove's cat",
+    "a3": "a USSR rock idol",
+    "a4": "a lightning fast string parser",
+    "right_answer": "a2",
+    "created_at": "2012-04-29",
+    "creator": "Felix @thegcat",
+    "creator_github": "thegcat",
+    "creator_twitter: "thegcat"
+  }
+}

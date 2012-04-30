@@ -1,0 +1,16 @@
+{ "question" : {
+    "sub_category": "ruby",
+    "category": "backend",
+    "nerd_level": 4,
+    "text": "Where in the call chain do included modules get inserted?",
+    "a1": "Before the class",
+    "a2": "Directly after the class (before other modules)",
+    "a3": "Directly before the superclass (after other modules)",
+    "a4": "At the very end of the call chain",
+    "right_answer": "a2",
+    "created_at": "2012-04-29",
+    "creator": "Felix @thegcat",
+    "creator_github": "thegcat",
+    "creator_twitter: "thegcat"
+  }
+}
