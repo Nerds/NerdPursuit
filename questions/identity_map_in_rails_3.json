@@ -1,0 +1,16 @@
+{ "question" : {
+    "sub_category": "rails",
+    "category": "backend",
+    "nerd_level": 4,
+    "text": "The Identity Map introduced to ActiveRecord in Rails 3.1:",
+    "a1": "Adds a standard way to store user identities",
+    "a2": "Allows for easy multi-tenant Web Apps",
+    "a3": "Provides an interface to system keychains",
+    "a4": "Keeps a map of instanciated records to avoid refetching them again",
+    "right_answer": "a4",
+    "created_at": "2012-05-03",
+    "creator": "Felix @thegcat",
+    "creator_github": "thegcat",
+    "creator_twitter": "thegcat"
+  }
+}
