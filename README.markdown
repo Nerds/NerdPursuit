@@ -1,4 +1,4 @@
-[![Build Status](http://travis-ci.org/Nerds/NerdPursuit.png)](http://travis-ci.org/Nerds/NerdPursuit)
+[![Build Status](https://travis-ci.org/Nerds/NerdPursuit.png?branch=master)](https://travis-ci.org/Nerds/NerdPursuit)
 
 ## NerdPursuit
 
